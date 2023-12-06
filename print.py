@@ -15,6 +15,10 @@ for elem in stream:
     # or via elem.record
     # e.g. elem.record.time
     # print(elem.time)
+    print()
     print(elem)
     #print(elem.project, elem.router, elem.collector, elem.peer_address)
-    print(elem.peer_address, elem.peer_asn, elem.fields)
+    #print(elem.peer_address, elem.peer_asn, elem.fields)
+    print(elem.peer_address)
+    print(elem.peer_asn)
+    print(elem.fields)
