@@ -1,0 +1,646 @@
+4134, 110728208, CHINANET-BACKBONE - No.31,Jin-rong Street, CN
+4538, 17177344, ERX-CERNET-BKB - China Education and Research Network Center, CN
+4611, 4864, xinhuanet - CNNIC member, CN
+4808, 8154112, CHINA169-BJ - China Unicom Beijing Province Network, CN
+4809, 620096, CHINATELECOM-CORE-WAN-CN2 - China Telecom Next Generation Carrier Network, CN
+4811, 287232, CHINANET-SHANGHAI-MAN - China Telecom (Group), CN
+4812, 8532480, CHINANET-SH-AP - China Telecom (Group), CN
+4816, 362240, CHINANET-IDC-GD - China Telecom (Group), CN
+4835, 771072, CHINANET-IDC-SN - China Telecom (Group), CN
+4837, 58942208, CHINA169-Backbone - CHINA UNICOM China169 Backbone, CN
+4842, 512, TH-AS-AP - Tianhai InfoTech, CN
+4847, 4741376, CNIX-AP - China Networks Inter-Exchange, CN
+4859, 4096, CEISTNET-AS-AP - The State Information Center of P.R.China, CN
+7497, 736768, CSTNET-AS-AP - CNIC-CAS, CN
+7586, 2304, CLOUDFORTIT-AS-AP - Cloudfort IT, CN
+7609, 512, MSMSL-AS-AP - Morgan Stanley Management Service (Shanghai) Limited, CN
+7640, 4096, CITICNET - China International Trust & Investment Corporation Management Information Center, CN
+7641, 402432, CHINABTN - China Broadcasting TV Net, CN
+7653, 512, MSMSL-AS-AP - Morgan Stanley Management Service (Shanghai) Limited, CN
+7721, 256, QC-NET - Qin Cloud Networks, CN
+9306, 98304, CIETNET - RongHua Road No.11, Beijing Economy Technology Development Area, 100176, CN
+9308, 664576, CHINA-ABITCOOL - Abitcool(China) Inc., CN
+9384, 2816, MIKU-NETWORK - MIKU NETWORK LIMITED, CN
+9389, 160768, CGWNET - BEIJING SHENZHOU GREATWALL COMMUNICATION, CN
+9392, 512, Apsatcom - APT MOBILE SATCOM LIMITED, CN
+9394, 19863552, CTTNET - China TieTong Telecommunications Corporation, CN
+9401, 512, NLC-CN-AS - National Library of China, CN
+9405, 1280, TPS-CN-AS - Test platform Service Center, CN
+9406, 256, NSFCNET-CN-AS - NSFC High Speed Testbed, CN
+9801, 34048, KUANCOM - A Building Haibo Masion, No.136 Xisihuan North Road, CN
+9802, 395264, CHINA-ABITCOOL - Abitcool(China) Inc., CN
+9803, 2560, JINGXUN - Beijing Jingxun Public Information Technology Co., Ltd, CN
+9805, 512, ENS-PEK - SIEMENS LTD. CHINA, CN
+9806, 853248, BJENET - Beijing Educational Information Network Service Center Co., Ltd, CN
+9807, 14336, GOVSTATS - Data Management Centre National Bureau of Statistics of China, CN
+9808, 36811008, CHINAMOBILE-CN - China Mobile, CN
+9809, 18176, NovaNetwork - SHENZHEN NOVA TECHNOLOGIES DEVELOPMENT.,LTD., CN
+9810, 5120, TNSNET - Beijing Times Netstar Technology Co.,Ltd, CN
+9811, 124160, DRCSCNET - Development & Research Center of State Council Net., CN
+9812, 1785856, CNNIC-CN-COLNET - Oriental Cable Network Co., Ltd., CN
+9814, 185344, FibrLINK - Beijing FibrLINK Networks Co.,Ltd., CN
+9818, 512, IFLAB - Internet Finance Laboratory, CN
+9929, 751616, CUII - CHINA UNICOM Industrial Internet Backbone, CN
+9939, 58368, DYXNET-CN - DYXNET of Shenzhen Communication Co., Ltd., CN
+10111, 3328, ZEONET-AS-AP - Zeofast Network, CN
+10206, 3584, CUZW-CN - China Unicom Zhongwei Cloud, CN
+10212, 48640, CHINAENTERCOM - China Enterprise ICT Solutions Limited, CN
+17428, 16640, CHINA-ABITCOOL - 21Vianet.Co.,Ltd, CN
+17429, 999424, BGCTVNET - BEIJING GEHUA CATV NETWORK CO.LTD, CN
+17430, 45056, GWBN - 5F Greatwall Bldg., A38 Xueyuan Road Haidian District,Beijing, CN
+17442, 8192, CHINANETCENTER-AP - Internet Service Provider in China, CN
+17490, 1024, ETFiberNet - 3/F,Yi Qing Building,Hua Jing Xin Cheng,Guangzhou, CN
+17621, 1035008, CNCGROUP-SH - China Unicom Shanghai network, CN
+17622, 704256, CNCGROUP-GZ - China Unicom Guangzhou network, CN
+17623, 631808, CNCGROUP-SZ - China Unicom Shenzen network, CN
+17633, 8192, CHINATELECOM-SD-AS-AP - ASN for Shandong Provincial Net of CT, CN
+17638, 715776, CHINATELECOM-TJ-AS-AP - ASN for TIANJIN Provincial Net of CT, CN
+17739, 8192, HAPLINK-CN-AP - Shanghai Telecom Haplink Network Co Ltd (Haplink), CN
+17772, 103424, CHINACOMM - CHINA COMMUNICATIONS SYSTEM Co.,Ltd., CN
+17775, 69632, STN-CN - shanghai science and technology network communication limited company, CN
+17776, 256, CHINAENTERCOM - China Enterprise ICT Solutions Limited, CN
+17781, 4096, XHNEWS - XINHUA NEWS AGENCY, CN
+17799, 213248, CHINATELECOM-LN-AS-AP - asn for Liaoning Provincial Net of CT, CN
+17816, 3914752, CHINA169-GZ - China Unicom IP network China169 Guangdong province, CN
+17897, 157952, CHINATELECOM-HLJ-AS-AP - asn for Heilongjiang Provincial Net of CT, CN
+17962, 722944, Topway-Net - ShenZhen Topway Video Communication Co. Ltd, CN
+17964, 364544, DXTNET - Beijing Dian-Xin-Tong Network Technologies Co., Ltd., CN
+17968, 438272, DQTNET - Daqing zhongji petroleum telecommunication construction limited cpmpany, CN
+17969, 89856, CNT - ChongQing Broadcast & TV Transfer Network Co. Ltd, CN
+18118, 196608, CITICNET-CN - CITIC Networks Management Co.,Ltd., CN
+18239, 65536, CAPNET - NO.11 Xi San Huan Zhong Road,Beijing, CN
+18241, 2304, SPINET - State Power Information Net, CN
+18242, 16384, CDIH - Chengdu Information Harbor Co., Ltd, CN
+18244, 10752, STIDC - Stateline Internet Data Center Co., Ltd. Shanghai, CN
+18245, 16384, Founderbn - CNNIC, CN
+18257, 9984, BITCOMM-AS - ChangZhou Bitcomm Software Technology Co., Limited, CN
+23650, 117248, CHINANET-Jiangsu-Province-IDC - China Telecom, CN
+23724, 2663168, CHINANET-IDC-BJ-AP - IDC, China Telecommunications Corporation, CN
+23771, 505856, SXBCTV-AP - SXBCTV ,Internet Service Provider, CN
+23839, 16384, LiaoHe-HuaYu - 76 # Oil Street of LiaoHe Oilfield, PanJin, LiaoNing, CN
+23841, 10496, TJBTN - 6/F, No.3 Huatian Road, New Technology Industry Area, CN
+23842, 16384, SZINC-AS-AP - Shenzhen Information and Network Center, CN
+23844, 113920, BJ-GUANGHUAN-AP - Beijing Guanghuan Xinwang Digital, CN
+23848, 23552, PINGANCOM - Shenzhen Ping An Communication Technology Co.,Ltd, CN
+23851, 256, CNNIC-CQCNC-AP - CHONGQING CNC BROADBAND NETWORKS CO.,LTD, CN
+23852, 2560, NGNNET - 17/FL, International Bank Center, CN
+23853, 22016, CNNIC-DSNET-AP - Shanghai Data Solution Co., Ltd., CN
+23910, 3844, CNGI-CERNET2-AS-AP - China Next Generation Internet CERNET2, CN
+23911, 512, CNGI-BJIX-AS-AP - China Next Generation Internet Beijing IX, CN
+24134, 78080, CNNIC-CNLINKNET-AP - CNLink Networks Ltd., CN
+24137, 67584, HNPCNET - KuanggongLu, Pingdingshan, Henan, China, CN
+24138, 587520, CTTNET - China TieTong Telecommunications Corporation, CN
+24139, 528384, WASUHZ - Huashu media&Network Limited, CN
+24141, 512, DMTNET - Shanghai DMT Information Network cor.,LTD., CN
+24143, 37888, CNNIC-QCN-AP - Qingdao Cable TV Network Center, CN
+24147, 29952, CBDTELENET - BEIJING CBD TELECOM CO,.LTD, CN
+24149, 512, ZDNS - Internet Domain Name System Beijing Engineering Resrarch Center Ltd., CN
+24150, 67840, SCN - 1 TianXianQiao BinHe Road,Chengdu,SiChuan, CN
+24151, 16896, CNNIC-CRITICAL-AP - China Internet Network Infomation Center, CN
+24302, 256, CRIS-CERNET-AS - China Education and Research Network (CERNET), CN
+24348, 716548, CNGI-BJ-IX2-AS-AP - CERNET2 IX at Tsinghua University, CN
+24349, 522784, CNGI-BJ-IX3-AS-AP - CERNET2 IX at Peking University, CN
+24350, 2081536, CNGI-BJ-IX4-AS-AP - CERNET2 IX at Beijing University of Posts and Telecommunications, CN
+24352, 249856, CNGI-TJN-IX-AS-AP - CERNET2 IX at Tianjin University, CN
+24353, 663040, CNGI-XA-IX-AS-AP - CERNET2 IX at Xi'an Jiaotong University, CN
+24354, 266752, CNGI-LZH-IX-AS-AP - CERNET2 IX at Lanzhou University, CN
+24355, 596736, CNGI-CD-IX-AS-AP - CERNET2 IX at University of Electronic Science and Technology of China, CN
+24356, 246016, CNGI-CHQ-IX-AS-AP - CERNET2 IX at Chongqing University, CN
+24357, 1424640, CNGI-GZ-IX-AS-AP - CERNET2 IX at South China University of Technology, CN
+24358, 909312, CNGI-WH-IX-AS-AP - CERNET2 IX at Huazhong University of Science and Technology, CN
+24359, 302080, CNGI-CHS-IX-AS-AP - CERNET2 IX at Central South University, CN
+24360, 653056, CNGI-ZHZ-IX-AS-AP - CERNET2 IX at Zhengzhou University, CN
+24361, 1256704, CNGI-NJ-IX-AS-AP - CERNET2 IX at Southeast University, CN
+24362, 267008, CNGI-HEF-IX-AS-AP - CERNET2 IX at University of Science and Technology of China, CN
+24363, 553728, CNGI-JNN-IX-AS-AP - CERNET2 IX at Shandong University, CN
+24364, 1354496, CNGI-SH-IX-AS-AP - CERNET2 IX at Shanghai Jiaotong University, CN
+24367, 163328, CNGI-HZH-IX-AS-AP - CERNET2 IX at Zhejiang University, CN
+24368, 248576, CNGI-XMN-IX-AS-AP - CERNET2 IX at Xiamen University, CN
+24369, 413952, CNGI-SY-IX-AS-AP - CERNET2 IX at Northeast University, CN
+24370, 253696, CNGI-DLN-IX-AS-AP - CERNET2 IX at Dalian University of Technology, CN
+24371, 408320, CNGI-CHC-IX-AS-AP - CERNET2 IX at Jilin University, CN
+24372, 229376, CNGI-HRB-IX-AS-AP - CERNET2 IX at Harbin Institute of Technology, CN
+24376, 768, YAHOO-CN2-AP - Yahoo Inc., CN
+24400, 842496, CMNET-V4shanghai-AS-AP - China Mobile, CN
+24404, 16384, CNISP-UNION - CNISP-Union Technology (Beijing) Co., Ltd, CN
+24406, 5888, CNNIC-CRITICAL-AP - China Internet Network Infomation Center, CN
+24409, 5376, CNNIC-CRITICAL-AP - China Internet Network Infomation Center, CN
+24413, 8192, Shanghai263 - 263 Shanghai Communications Ltd., CN
+24416, 139264, CNNIC-PRIMETELECOM-AP - Beijing Primezone Technologies Inc., CN
+24422, 16384, HTXX - Huizhan street, Renqiu city, Hebei, P. R. CHINA, CN
+24423, 20480, FJGDWL - No. 207 Hualin Road, Fuzhou, Fujian, China, CN
+24424, 8704, GOOGLECN - Beijing Gu Xiang Information Technology Co.,Ltd., CN
+24426, 4096, CNNIC-SINO-I - Beijing CE Huatong Information Technology Co., Ltd., CN
+24427, 6912, FREENET - Freecomm Corporation, CN
+24429, 41984, Taobao - Zhejiang Taobao Network Co.,Ltd, CN
+24430, 14336, Chinapost - Jia No.8, North Lishi Road, Xicheng Dist.Beijing, China, CN
+24444, 2051072, CMNET-V4shandong-AS-AP - China Mobile, CN
+24445, 2036480, CMNET-V4henan-AS-AP - China Mobile, CN
+24489, 4096, TEIN2-NORTH-AP - Trans-Eurasia Information Network (TEIN2) - North, CN
+24490, 2048, TEIN2-SG-AP - Trans-Eurasia Information Network (TEIN2) - SG, CN
+24495, 4096, GNET-CN-AP - gnet Integrated Services Co., CN
+24547, 689408, CMNET-V4HEBEI-AS-AP - China Mobile, CN
+24575, 1024, DRAGONLAB-AS-AP - DRAGONLAB, CN
+37936, 1792, SINA - 15F,Ideal Plaza No.58 Bei Si Huan Xi Road, CN
+37937, 65536, eGovNet - China eGovNet Information Center, CN
+37942, 3840, SACHNET - 3rd Floor, Wenbo Building, No.A2 Gaoyuan Street, CN
+37963, 8077056, ALIBABA-CN-NET - Hangzhou Alibaba Advertising Co.,Ltd., CN
+37965, 32768, CNNIC-PBSL-AP - Pacnet Business Solutions LTD, CN
+37968, 256, CNIXP - ShenZhen QianHai New-Type Internet Exchange Point Co.,Ltd, CN
+37970, 4096, HighwayNet - Floor 9,Hua Sheng Building No.1 Lane 519 Ao Men Road,Shanghai, CN
+38019, 346880, CMNET-V4TIANJIN-AS-AP - China Mobile, CN
+38027, 35840, MOST-AS-AP - Information Center, Ministry of Sci and Tech, CN
+38057, 1024, DellChina - Dell (China) Co.,Ltd, CN
+38238, 256, SG-CHINA-AS - Societe Generale (China) Limited, CN
+38272, 1024, FITI-AS-BKB - China Education and Research Network (CERNET), CN
+38283, 270592, CHINANET-SCIDC-AS-AP - CHINANET SiChuan Telecom Internet Data Center, CN
+38341, 489216, HCENET - HEXIE Information technology Co., Ltd., CN
+38345, 6656, ZDNS - Internet Domain Name System Beijing Engineering Resrarch Center Ltd., CN
+38346, 35840, HangTian-INFONET-AP - HangTian Info Network Ltd., CN
+38353, 40960, CNISP-UNION - CNISP-Union Technology (Beijing) Co., Ltd, CN
+38357, 4096, SLTNET - BEIJING DATA-express tech CO.,ltd, CN
+38358, 4096, ICCAST - 3 Fuxing Road, Beijing, China, CN
+38363, 768, HighwayNet - Floor 9,Hua Sheng Building No.1 Lane 519 Ao Men Road,Shanghai, CN
+38364, 17408, LTEL - RM 1706,Block A,Ocean Express,No.66, CN
+38365, 341248, Baidu - Beijing Baidu Netcom Science and Technology Co., Ltd., CN
+38367, 4096, ULICnet - 20/F.,Kuntai International Mansion,Buiding1 Yi No.12, CN
+38370, 476928, CTTNET - China TieTong Telecommunications Corporation, CN
+38372, 114688, RJNET - Room 203, No.6, PingYuanBei Street, Foshan, GuangDong, China, CN
+38375, 2048, GSGH - GSGH security LLC, CN
+38378, 5632, RBCN-NET - Bosch (China) Investment Ltd., CN
+38379, 4608, MAGINETWORK - No.9 Building, No.619 Longchang Road,Shanghai,China, CN
+38380, 2048, CNNIC-CSRNET-AP - China South Locomotive And Rolling Stock Industry Company, CN
+38381, 9216, travelsky - west wing no.157,dongsi west street Dongcheng, Beijing, China, CN
+38564, 512, NVIDIA-ASIA-IN-GW-AP - NVIDIA, CN
+38834, 512, NVIDIA-BANGALORE-AP - NVIDIA, CN
+42962, 1280, CLE-COMM - Shijiazhuang XuDing Technology Company Ltd, CN
+44421, 256, EVE-NET - Yifu Yu, CN
+45057, 264960, CTTSH - CHINA TIETONG SHANGHAI, CN
+45058, 62464, XMGBNET - Golden-Bridge Netcom communication Co.,LTD., CN
+45061, 54272, SIN - Shanghai Information Network Co.,Ltd., CN
+45062, 235008, Netease-Network - NetEase Building No.16 Ke Yun Road, CN
+45064, 8192, ZSPNET - BEIJING ZHONGGUANCUN SOFTWARE PARK DEVELOPMENT CO.,Ltd., CN
+45071, 1024, LNSG-CN - No.8 Xing Guang 5th Street, Opto-Mechatronics Industrial Park, CN
+45073, 256, APNIC ASN block, CN
+45074, 2048, GOVSTATS - Data Management Centre National Bureau of Statistics of China, CN
+45075, 65536, CRI - China Central Television, CN
+45079, 7936, GDSNET - GDS CHANGAN SERVICES Ltd., CN
+45083, 65536, HXDNET - Beijing haixunda Communication Co., Ltd, CN
+45084, 1792, BTV - No.98 JianGuo Road,Chaoyang District,Beijing,China, CN
+45086, 1024, YOVOLE - Shanghai Yovole Networks Inc., CN
+45090, 5889792, TENCENT-NET-AP - Shenzhen Tencent Computer Systems Company Limited, CN
+45101, 3072, Walmart-CN - 2-5/F,Tower 2 and 1-12/F,Tower 3,SZITIC Square, CN
+45106, 526848, JSCNNET - JIANGSU BROADCASTING DATA NETWORK CORPORATION LIMITED, CN
+45110, 13568, CBCnet - Beijing Tian Wei Xin Tong technology corp. limited., CN
+45113, 65536, DTcoal - Shanxi Datong Coal Group Communication Co., Ltd, CN
+45576, 90624, CERNET2-TSINGHUA6-AS-AP - Tsinghua University, CN
+49195, 256, SSAC - Shanghai Sunwen Advertising Co., Ltd, CN
+55439, 256, ISC-PEK2 - Internet Systems Consortium, CN
+55461, 32768, SUNINFO-MDC - Beijing CNISP Technology Co., Ltd., CN
+55468, 2816, CRI - China Radio International, CN
+55786, 1024, MOBIUS-CN - Mobius Wireless Solutions Ltd, CN
+55956, 512, Magna-Asiapacific - Magna Automotive Technology and Service(Shanghai)Co.,Ltd, CN
+55958, 3328, intel-china - Intel China Ltd, CN
+55960, 447744, BJ-GUANGHUAN-AP - Beijing Guanghuan Xinwang Digital, CN
+55966, 1024, PSBCNET - Post Savings Bank of China Tower A, No.3, CN
+55967, 48896, Baidu - Beijing Baidu Netcom Science and Technology Co., Ltd., CN
+55971, 1024, CASS-NET - Chinese Academy of Social Sciences, CN
+55973, 1024, UCSNETCN - Universal Cinema Services Co., Ltd, CN
+55982, 1024, CHIT - Changhong IT information Products CO.,LTD., CN
+55990, 1021184, HWCSNET - Huawei Cloud Service data center, CN
+55991, 17664, CNNIC ASN block, CN
+55992, 90880, QIHOO - Beijing Qihu Technology Company Limited, CN
+55994, 6144, ANCH-51idc - Shanghai ruisu Network Technology Co.,Ltd, CN
+55996, 4352, CYPRESSTEL - CYPRESS TELECOM (CHINA) LIMITED, CN
+55998, 768, CNLINKNET - CNLink Network Technology Ltd., CN
+56000, 1024, HERBALIFE-CNDC - HERBALIFE(SHANGHAI)MANAGEMENT CO.,LTD., CN
+56002, 1024, MCNNET - BEIJING MARINE COMMUNICATION AND NAVIGATION CO., CN
+56003, 1024, JDJT - Beijing Century Union Network Technology Co.,LTD., CN
+56005, 66560, Fastidc - Zhengzhou Fastidc Technology Co.,Ltd., CN
+56006, 1024, SPDB-CN - Shanghai Pudong Development Bank Co.,Ltd., CN
+56011, 1024, T-UNICLOUD - UNICLOUD TECH CO.,LTD., CN
+56012, 4096, LGNET-China - LGNET China, CN
+56013, 4096, SDSC - SAMSUNG SDS CHINA, CN
+56015, 1024, CSLC-NET - China Sports Lottery Technology Development Co., Ltd, CN
+56019, 77824, SHUJUJIA - Beijing CNISP Technology Co., Ltd., CN
+56040, 2128640, CMNET-GuangDong-AP - China Mobile Communications Corporation, CN
+56041, 2974464, CMNET-Zhejiang-AP - China Mobile Communications Corporation, CN
+56042, 569856, CMNET-Shanxi-AP - China Mobile Communications Corporation, CN
+56044, 1026560, CMNET-AS-Liaoning - China Mobile Communications Corporation, CN
+56046, 3509760, CMNET-Jiangsu-AP - China Mobile Communications Corporation, CN
+56047, 769024, CMNET-Hunan-AP - China Mobile Communications Corporation, CN
+56048, 1914624, CMNET-BEIJING-AP - China Mobile Communications Corporation, CN
+56282, 27392, VClouD - Beijing Internet Harbor Technology Co., Ltd, CN
+58448, 1024, AP-CONAC-AS-AP - CONAC (China Organizational Name Administration Center), CN
+58461, 487680, CT-HangZhou-IDC - No.288,Fu-chun Road, CN
+58466, 494336, CT-Guangzhou-IDC - CHINANET Guangdong province network, CN
+58517, 768, CHINATELECOM-CDMANetwork-BG-Beijing - China Telecom, CN
+58518, 1280, CHINATELECOM-CDMANetwork-BG-Guangzhou - China Telecom, CN
+58519, 593664, CHINATELECOM-Ctcloud - Cloud Computing Corporation, CN
+58520, 512, CHINATELECOM-Jiangsu-Nantong-MAN - Nanton, CN
+58536, 2048, AP-CONAC-AS-AP - CONAC (China Organizational Name Administration Center), CN
+58539, 29184, CHINATELECOM-Hebei-Langfang-IDC - Langfang,Hebei province, P.R.China, CN
+58540, 72960, CHINATELECOM-SHANDONG-JINAN-IDC - Jinan,250000, CN
+58541, 86528, CHINATELECOM-SHANDONG-QINGDAO-IDC - Qingdao,266000, CN
+58542, 112640, CHINATELECOM-TIANJIN - Tianjij,300000, CN
+58543, 407296, CHINATELECOM-Guangdong-IDC - Guangdong, CN
+58563, 144640, CHINATELECOM-Hubei-IDC - CHINANET Hubei province network, CN
+58571, 256, CHINATELECOM-GUIZHOU - CHINANET Guizhou province network, CN
+58593, 705536, BLUECLOUD - Shanghai Blue Cloud Technology Co.,Ltd, CN
+58772, 20480, ChinaNet-Fujian-Fuzhou-IDC - CHINANET Fujian province Fuzhou IDC network, CN
+58777, 256, CT2 - ChinaTelecom Cybersecurity Tech, CN
+58811, 1792, AP-CONAC-AS-AP - CONAC (China Organizational Name Administration Center), CN
+58834, 2048, GCableNET - Guangdong Cable Corporation Limited, CN
+58850, 1024, BBGINETCN - Bloomberg Financial Information (Beijing) Co Ltd, CN
+58851, 65536, YOUWE - Priority of Fashion(Beijing)Information Technology Co.,Ltd, CN
+58852, 2048, GZGD - Guizhou provincial radio and television information Network Inc, CN
+58854, 6144, kaopy - Kaopu Cloud, CN
+58859, 256, WSUNET - Shenzhen WSUNet Technology Co., Ltd., CN
+58862, 1024, MCCL-CHN - Microsoft (China) Co., Ltd., CN
+58866, 1792, CFCA-NET - China Financial Certification Authority, CN
+58879, 53248, ANCHNET - Shanghai Anchang Network Security Technology Co.,Ltd., CN
+58962, 2048, SCSJLX-CN - SiChuan Century LiXin Financial Management Consulting Co., LTD, CN
+58998, 16384, VClouD - Beijing Internet Harbor Technology Co.,Ltd, CN
+59003, 1024, TJGDKD - Tianjin B&T broadband network technology Co., Ltd., CN
+59009, 4096, WXData - QingDao WangXin Telcom Corp. Limited, CN
+59011, 7936, YLWL - Beijing Yunlin Network Technology Co.,Ltd., CN
+59012, 1024, SINOGRAIN - China Grain Reserves Group LTD.Company, CN
+59019, 131584, BJKSCNET - Beijing Kingsoft Cloud Internet Technology Co., Ltd, CN
+59025, 38912, SKBJNET - Beijing Sankuai Technology Co.,Ltd., CN
+59029, 4096, PEOPLENET - People.Cn CO.,LTD, CN
+59033, 1024, ESUNNET - Esun Technology(Shanghai) Co.,Ltd, CN
+59034, 256, WISHNET - BeiJing Wish Network Technology CO.,LTD., CN
+59037, 61952, ZHIYUNET - Hangzhou ZhiYu Network Technology Co.,Ltd., CN
+59043, 3072, LDNET - Guangzhou LanDong Information technology co., LTD, CN
+59045, 3328, SUNHONGS - Guangzhou navigation information technology co., LTD, CN
+59048, 768, CLOUDTIMES - Bei Jing Cloud Times Technology Co.,Ltd, CN
+59049, 1024, Walmart-CN - Wal-mart (China) Investment Co., Ltd., CN
+59057, 1024, JSMNET - Jishi Media Co ., Ltd., CN
+59065, 1792, PAYPALCN - PayPal Network Information Services (Shanghai) Co., Ltd., CN
+59067, 4608, MMAISNET - Microsoft Mobile Alliance Internet Services Co., Ltd, CN
+59068, 512, SPDB-CN - Shanghai Pudong Development Bank Co.,Ltd., CN
+59073, 768, BOC - Bank of China Limited, CN
+59074, 1024, TAIKANG-INSURANCE-GROUP - TAIKANG INSURANCE GROUP CO.,LTD., CN
+59077, 16384, UCLOUD-NET - Shanghai UCloud Information Technology Company Limited, CN
+59078, 65536, YUNIFY-NET - Yunify Technologies Inc., CN
+59080, 6400, Shiweibianjie - Beijing Shiwei border Technology Co., Ltd, CN
+59083, 12032, KHTech - Shanghai Kuanhui Tech. Co.,ltd, CN
+59089, 1024, CloudVsp - NO.18 Building University of Technology, CN
+63548, 2304, Lenovo-BeiJing - LENOVO (BEIJING) Co.ltd, CN
+63555, 3072, CNBIDCC - Beijing Beilong Yunhai Network Data Technology Corporation, CN
+63560, 256, NewJiaHua - QingDao NEWJIAHUA NETWORKS Corp. Limited, CN
+63561, 2048, WESTONE - China Electronics Technology Cyber Security Co.,LTD, CN
+63565, 1024, YHWLM - Beijing lian guang tong network technology co., LTD, CN
+63570, 2048, China Internet Network Information Center, CN
+63571, 256, GWLink - Shenzhen cyberlink Century Investment Co., Ltd., CN
+63580, 512, Novartis-CN - China Novartis Institutes for Bio-Medical Research Co., Ltd., CN
+63581, 10240, GXRTVNET - GUANGXI RADIO & TELEVISION INFORMATION NETWORK CO.,LTD., CN
+63582, 1280, CAICTNET - Chinese Academy of Telecommunication Research, CN
+63583, 1536, CAICTNET - Chinese Academy of Telecommunication Research, CN
+63590, 12288, HEBBTN - Hebei Broadcasting&TV Network, CN
+63593, 3840, OPPO - Guangdong HeyTap Technology Co., Ltd., CN
+63603, 2048, GSS-Networks - GSS China, CN
+63612, 16128, Xiaoniaoyun - Shenzhen Qianhai bird cloud computing Co. Ltd., CN
+63614, 19456, QishangOnline - A4, 5th Floor, Tower C, Triumph Plaza, Unit A, No 143, CN
+63615, 256, GECHINANET - GE (China) Co.,Ltd, CN
+63617, 1536, McKinsey - McKinsey & Consulting Company Inc. Shanghai, CN
+63619, 4096, SKYUNNET - Beijing Sankuai Cloud Computing Co.,Ltd., CN
+63620, 2048, HUABOtechNET - ShenZhen HuaBo Technology Develop Co., Ltd., CN
+63629, 1024, AUTOHOME - Beijing Autohome imformation technology Co.,Ltd, CN
+63631, 8704, Cloudbase - Guangdong Cloudbase Technology Co., Ltd., CN
+63634, 1024, CPCN - China Payment & Clearing Network Co., Ltd., CN
+63641, 3840, MVNET - Mega Vantage Information Consulting Co., Ltd., CN
+63646, 73984, XJKJ - Beijing Xiaoju Science and Technology Co., Ltd., CN
+63648, 33024, XJKJ - Beijing Xiaoju Science and Technology Co., Ltd., CN
+63654, 1024, NET-EAST - BEIJING NETEAST TECHNOLOGIES CORPORATION LTD, CN
+63655, 2048, HWDGNET - Huawei Technologies Co., Ltd, CN
+63663, 2560, YHHL - Beijing YunHaiHuLian Science and Technology Co., Ltd., CN
+63673, 3840, PINGANCOM - Shenzhen Ping An Communication Technology Co.,Ltd, CN
+63689, 512, ESUNNET - Esun Technology(Shanghai) Co.,Ltd, CN
+63690, 512, CDTNET - China Dragon Telecom Co.,Ltd, CN
+63695, 4096, WYNETWORK - WeiYi Network Technology Co., Ltd, CN
+63696, 512, CSCNET - China Securities Co., Ltd, CN
+63697, 256, CSCNET - China Securities Co., Ltd, CN
+63701, 4096, JSMNET - Jishi Media Co ., Ltd., CN
+63704, 1024, GZGD-GY - Guizhou provincial radio and television information Network Inc, CN
+63708, 3072, LTIDC - Guangdong LITONG Network Technology Limited, CN
+63722, 256, HODONET - Hodo Telecom Co,Ltd., CN
+63727, 4864, HWCSNET - Huawei, CN
+63835, 136320, CT-HuNan-Changsha-IDC - No.293,Wanbao Avenue, CN
+63838, 50944, CT-HuNan-Hengyang-IDC - Hengyang, CN
+64021, 28928, Network-Transit - Hong Kong Business Telecom Limited, CN
+131285, 131072, CHINATELECOM-HUBEI-SHENGJI-5G-NETWORK - China Telecom, CN
+131325, 16640, CHINATELECOM-JIANGSU-NANTONG-MAN - CHINATELECOM JIANGSU province NANTONG MAN network, CN
+131326, 256, ChinaHW - Beijing CNISP Technology Co., Ltd., CN
+131484, 512, UBISOFT-CN - Ubisoft Shanghai, CN
+131486, 137216, JDCOM - Beijing Jingdong 360 Degree E-commerce Co., Ltd., CN
+131495, 768, Nine-cloud - Beijing nine cloud infinite network technology co., LTD, CN
+131497, 1024, VGC-BeiJing - Volkswagen (China) Investment Co., LTD, CN
+131506, 3072, LJWL - HEILONGJIANG RADIO & TV NETWORK CO.,LTD, CN
+131516, 4096, JHWA - Jinhua Weian InfoTech Co., Ltd, CN
+131519, 1024, Hisense - Hisense, CN
+131522, 2304, YOVOLECLOUD - Beijing Yovole Cloud Computing Technology Company Limited, CN
+131524, 768, SHPJNET - Shanghai pujv Communication Technology co., Ltd., CN
+131536, 8192, SHGWBNNET - Shanghai Great Wall Broadband Network Service Co., Ltd., CN
+131541, 256, China Internet Network Information Center, CN
+131542, 2048, China Internet Network Information Center, CN
+131544, 512, EARTHLAB-IAP-CAS - Institute of Atmospheric Physics, Chinese Academy of Sciences, CN
+131558, 512, Walmart-CN - Wal-mart (China) Investment Co., Ltd., CN
+131562, 10752, HNCATV - HUNAN CATV Network Group CO.,LTD., CN
+131567, 1024, DOUBLENET - Fnetlink International Co., Ltd., CN
+131574, 256, HIDDOS - Beijing Haiyu Technology Co. Ltd.., CN
+131577, 512, unifiband - Wuhan Unifiber Communication Co., Ltd., CN
+131578, 1024, BFSUNET - Beijing Foreign Studies University, CN
+132019, 1024, EARTHNET-AS - Earth network technology (Shanghai) Co., Ltd, CN
+132147, 16640, CT-SHANXI-MAN - No.3,Shu-Ma Road, CN
+132153, 7168, CT-SHANXI-MAN-2 - No.3,Shu-Ma Road, CN
+132203, 1756672, TENCENT-NET-AP-CN - Shenzhen Tencent Computer Systems Company Limited, CN
+132225, 17664, CHINATELECOM-QINGHAI-5G-NETWORK - China Telecom, CN
+132437, 2048, CHINANET-HUAIBEI-IDC - China Telecom, CN
+132510, 58624, ShanXiMCC-IDC - China Mobile Communications Corporation, CN
+132525, 402176, CMNET-HEILONGJIANG-CN - China Mobile Communications Corporation, CN
+132553, 8192, UPC-AS-CN - China University of Petroleum (East China), CN
+132698, 1024, SBNTCL-AS-AP - Shenzhen Balian Network Technology Co., Ltd, CN
+132833, 4096, CHINANET-ANHUI-WUHU-NEWIDC - China Telecom, CN
+133111, 91392, CNT-northChina - CERNET New Technology Co., Ltd, CN
+133118, 69888, UNICOM-CN - China Unicom IP network, CN
+133119, 265472, UNICOM-CN - China Unicom IP network, CN
+133194, 256, CHTLC-AS - Connections Hub Technology (Shanghai) Ltd. Company, CN
+133219, 768, NEWMEDIAEXPRESSCHINA-AS-AP - NewMedia Express Pte Ltd, CN
+133465, 1280, DKU-AS-AP - Duke Kunshan University, CN
+133475, 1024, NEWYORKUNIVERSITY-AS-SHANGHAI - New York University, CN
+133512, 1792, CERNEWTECH-ZHENGZHOU - CERNET New Technology Co., Ltd, CN
+133513, 1280, CERNEWTECH-CHENGDU - CERNET New Technology Co., Ltd, CN
+133514, 768, CERNEWTECH-GUANGZHOU - CERNET New Technology Co., Ltd, CN
+133555, 256, DOORPOST-AS-AP - DOORPOST Limited, CN
+133774, 188416, CHINATELECOM-FUJIAN-FUZHOU-IDC1 - Fuzhou, CN
+133775, 88576, CHINATELECOM-Fujian-Xiamen-IDC1 - Xiamen, CN
+133776, 38656, CHINATELECOM-Fujian-Quanzhou-IDC1 - Quanzhou, CN
+133846, 256, IMLONGHAO-AS-AP - IMLONGHAO, CN
+133865, 8192, IQIYI-AS-AP - Beijing IQIYI Science & Technology Co., Ltd., CN
+133952, 3072, ZLTL-AS-AP - Zhengzhou longling technology ltd., CN
+134169, 12800, CERNEWTECHRES-AS-CN - CERNEWTECH (Beijing) co.,LTD, CN
+134238, 86528, CT-Jiangxi-IDC - CHINANET Jiangx province IDC network, CN
+134413, 512, KMNIX-AS-AP - KMNIX LLC, CN
+134417, 2048, CHINATELECOM-Jiangsu-Nanjing-Hexi-IDC - Nanjing, CN
+134419, 112640, CHINATELECOM-Guangxi-Beihai-MAN - Beihai, CN
+134420, 93184, CHINATELECOM-Chongqing-IDC - Chongqing Telecom, CN
+134425, 6656, CHINANET-HEFEI-QIMENLU-IDC - China Telecom, CN
+134542, 86528, UNICOM-GUIAN - China Unicom IP network, CN
+134543, 46080, UNICOM-DongGuan-IDC - China Unicom Guangdong IP network, CN
+134578, 256, UFWDTL-AS-AP - UNION FU WAH DIGITAL TECHNOLOGY LIMITED, CN
+134756, 88320, ChinaNet-NANJING-JISHAN-IDC - China Telecom, CN
+134760, 70144, ChinaNet-Hebei-Shijiazhuang-IDC - Shijiazhuang IDC network, CHINANET Hebei province, CN
+134761, 35328, CHINANET-NINGXIA-ZHONGWEI-IDC - CHINANET NINGXIA province ZHONGWEI IDC network, CN
+134762, 196608, CHINANET-LIAONING-DALIAN-MAN - CHINANET Liaoning province Dalian MAN network, CN
+134763, 117760, CT-DongGuan-IDC - CHINANET Guangdong province network, CN
+134764, 224256, CT-FoShan-IDC - CHINANET Guangdong province network, CN
+134765, 36096, CHINANET-YUNNAN-IDC1 - CHINANET Yunnan province IDC1 network, CN
+134766, 37376, CHINANET-YUNNAN-IDC2 - CHINANET Yunnan province IDC2 network, CN
+134768, 176640, CHINANET-SHAANXI-CLOUD-BASE - CHINANET SHAANXI province Cloud Base network, CN
+134769, 8704, ChinaNet-Jiangsu-Changzhou-Liyang-IDC - ChinaNet Jiangsu Changzhou Liyang IDC network, CN
+134770, 13056, CHINANET-JIANGSU-SUZHOU-TAIHU-IDC - CHINANET Jiangsu province Suzhou taihu IDC network, CN
+134771, 69632, CHINATELECOM-ZHEJIANG-WENZHOU-IDC - WENZHOU, ZHEJIANG Province, P.R.China., CN
+134772, 1926656, ChinaNet-Guangdong-Dongguan-MAN - CHINANET Guangdong province Dongguan MAN network, CN
+134773, 2714368, ChinaNet-Guangdong-Guangzhou-MAN - CHINANET Guangdong province Guangzhou MAN network, CN
+134774, 59392, ChinaNet-Guangdong-Shenzhen-MAN - CHINANET Guangdong province Shenzhen MAN network, CN
+134775, 728320, ChinaNet-Guangdong-Zhusanjiao-MAN - CHINANET Guangdong province Zhusanjiao MAN network, CN
+134810, 262656, CMNET-JILIN-AS-AP - China Mobile Communications Corporation, CN
+135006, 256, BHICL-AS-AP - Bit Huitong (Beijing) Information Co., Ltd., CN
+135054, 256, CMNET-HAINAN-IDC - China Mobile Communications Corporation, CN
+135061, 88576, UNICOM-ShenZhen-IDC - China Unicom Guangdong IP network, CN
+135089, 17664, CHINANET-Guangzhou-Southbase-IDC - China Telecom, CN
+135357, 197120, SKHT-AS - Shenzhen Katherine Heng Technology Information Co., Ltd., CN
+135363, 1536, CFIT-AS-AP - Chongqing Fuxuan Information Technology Co., Limited, CN
+135629, 370688, WESTCLOUDDATA - Ningxia West Cloud Data Technology Co.Ltd., CN
+135671, 256, RBB-AS-AP - RBB InfoTech, CN
+135883, 768, NNTCL-AS-AP - Nahe (tianjin) Network Technology Co., Ltd., CN
+136146, 3584, B3NTCL-AS-AP - Beijing 3389 Network Technology Co., Ltd., CN
+136160, 5376, BSYNTCL-AS-AP - Beijing Shijihulian Yuntong Network Technology Co., Ltd., CN
+136173, 4352, QYNTCL-AS-AP - Quanzhou Yuntun Network Technology Co., Ltd., CN
+136180, 1280, IPIP-CN - Beijing Tiantexin Tech. Co., Ltd., CN
+136188, 99840, CHINATELECOM-ZHEJIANG-NINGBO-IDC - NINGBO, ZHEJIANG Province, P.R.China., CN
+136189, 2048, OPERA-AS-AP - Opera Software Technology (Beijing) Co., Ltd., CN
+136190, 111488, CHINATELECOM-ZHEJIANG-JINHUA-IDC - JINHUA, ZHEJIANG Province, P.R.China., CN
+136191, 17664, CHINATELECOM-HUBEI-YICHANG-IDC - YICHANG, Hubei Province, P.R.China., CN
+136192, 14336, CHINATELECOM-HUBEI-XIANGYANG-IDC - Xiangyang, Hubei Province, P.R.China., CN
+136194, 5888, CHINATELECOM-HUBEI-HUANGSHI-IDC - Huangshi, Hubei Province, P.R.China., CN
+136195, 74240, CHINATELECOM-QINGDAO-CLOUDBASE - Qingdao, Shandong Province, P.R.China., CN
+136197, 37888, CHINATELECOM-HEBEI-XIONGAN - Xiong'an, Hebei Province, P.R.China., CN
+136198, 540416, ChinaNet-Guangdong-Yuexi-MAN - CHINANET Guangdong province Yuexi MAN network, CN
+136199, 528896, ChinaNet-Guangdong-Yuedong-MAN - CHINANET Guangdong province Yuedong MAN network, CN
+136200, 1556480, ChinaNet-Guangdong-Foshan-MAN - CHINANET Guangdong province Foshan MAN network, CN
+136237, 1536, SSCTC-AS-AP - Shanghai Shuangyu Communication Technology co.,Ltd., CN
+136766, 512, RBX-AS-AP - ROBLOX (SHENZHEN) DIGITAL SCIENCE AND TECHNOLOGY CO., LTD, CN
+136958, 224768, UNICOM-GuangZhou-IDC - China Unicom Guangdong IP network, CN
+136959, 24832, UNICOM-FuoShan-IDC - China Unicom Guangdong IP network, CN
+137266, 256, CHINATELECOM-HUBEI-WUHAN-5G-NETWORK - China Telecom, CN
+137539, 65536, UNICOM-Harbin-IDC - China Unicom, CN
+137571, 1536, PESYUN-AS-AP - Rang Yang Bai Shi Chuang Yun Co., Limited, CN
+137687, 64000, CHINATELECOM-HENAN-LUOYANG-IDC - Luoyang, Henan Province, P.R.China., CN
+137688, 74240, CHINATELECOM-Liaoning-Benxi-MAN - CHINATELECOM Liaoning Benxi MAN, CN
+137689, 50944, CHINATELECOM-IOT-JIANGSU-Network - IOT Jiangsu network, Chinatelecom, P.R.China., CN
+137690, 8192, CHINATELECOM-SHANDONG-ZAOZHUANG-IDC - Zaozhuang,Shandong Province, P.R.China., CN
+137691, 425984, CHINATELECOM-HEILONGJIANG-IDC - Heilongjiang Province, P.R.China., CN
+137692, 14080, CHINATELECOM-IOT-GUANGDONG-Network - IOT Guangdong network, Chinatelecom, P.R.China., CN
+137693, 69760, CHINATELECOM-Guangxi-Nanning-IDC - CHINATELECOM Guangxi Nanning IDC networkdescr: Nanning , Guangxi Province, P.R.China., CN
+137694, 97792, CHINATELECOM-Xinjiang-Kezhou-MAN - CHINATELECOM Xinjiang Kezhou MAN network, CN
+137695, 60928, CHINATELECOM-XINJIANG-WULUMUQI-MAN - CHINATELECOM Xinjiang Wulumuqi MAN network, CN
+137697, 84992, CHINATELECOM-JiangSu-YangZhou-IDC - CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou , Jiangsu Province, P.R.China., CN
+137698, 26368, CHINATELECOM-HEILONGJIANG-HANAN-IDC - Haerbing , Heilongjiang Province, P.R.China., CN
+137699, 16896, CHINATELECOM-Jiangsu-Suqian-IDC - CHINATELECOM Jiangsu Suqian IDC network, CN
+137702, 107904, CHINATELECOM-JIANGSU-NANJING-IDC - China Telecom, CN
+137710, 1024, Wangshenxinxi - Net God Information Technology (Beijing) Co., Ltd., CN
+137715, 1024, GTJANET - GTJA Securities, CN
+137718, 149504, VOLCANO-ENGINE - Beijing Volcano Engine Technology Co., Ltd., CN
+137719, 512, CERWD - Qingdao Weidong Big Data Technology Co., Ltd, CN
+137735, 6912, CCBNET - China Construction Bank, CN
+137745, 1024, China Internet Network Information Center, CN
+137746, 768, China Internet Network Information Center, CN
+137747, 512, CHIJUN - Beijing Chijun Network Advisory Service Co,Ltd, CN
+137751, 2048, HANDSOME - Xi'an Qianxi Network Technology Co. Ltd., CN
+137753, 512, JD - Beijing Jingdong Shangke Information Technology Co. Ltd., CN
+137758, 256, ICBC-AstroNet - Industrial and Commercial Bank of China Limited,ICBC, CN
+137759, 512, MTSCHINANET - MTS SYSTEM (China) Co.,Ltd, CN
+137764, 1024, Youkai - Beijing Youkai Technology Co.Ltd, CN
+137767, 256, SGMNET - Shanghai General Motor Corporation Limited, CN
+137782, 1024, SHDCCENTRE - STATE GRID SHANGHAI MUNICIPAL ELECTRIC POWER COMPANY, CN
+137784, 512, Cacloud - CACloud Services (Shanghai) Co., Ltd., CN
+137785, 1024, Cacloud - CACloud Services (Shanghai) Co., Ltd., CN
+137787, 1024, Newcampus4-lenovo - Beijing Jingdong Shangke Information Technology Co. Ltd., CN
+137788, 2048, Beacon - Shanxi Beacon Cloudscape, CN
+137798, 2304, Digital-Guangdong - 5/F, Zhujiang Yide Building, 362 Dongfeng Middle Road, Yuexiu District, CN
+137801, 1024, AIPO-CN - AIPO Cloud (Guizhou) Technology Co., Ltd., CN
+137804, 1024, CNIX - China Internet Exchange, CN
+137806, 1024, Walmart-GS - WMGS Consulting (Shenzhen) Co.Ltd, CN
+137882, 256, HUAJUAN-ES - Shanghai Huajuan Information Technology Co., Ltd., CN
+138029, 1024, TTCL-CN - Shen Zhen Hu Lian Xian Feng Technology Co., Limited, CN
+138169, 14848, ASEAN-INTERNATIONAL-INFORMATION-GARDEN-IDC - China Telecom, CN
+138182, 248064, CNGI-SJZ-IX-AS-AP - China Education and Research Network (CERNET), CN
+138369, 240384, CNGI-SZH-IX-AS-AP - China Education and Research Network (CERNET), CN
+138370, 124928, CNGI-NCH-IX-AS-AP - China Education and Research Network (CERNET), CN
+138371, 121856, CNGI-QDA-IX-AS-AP - China Education and Research Network (CERNET), CN
+138373, 132096, CNGI-FZH-IX-AS-AP - China Education and Research Network (CERNET), CN
+138374, 125952, CNGI-TYN-IX-AS-AP - China Education and Research Network (CERNET), CN
+138375, 239616, CNGI-HHT-IX-AS-AP - China Education and Research Network (CERNET), CN
+138376, 61952, CNGI-YCH-IX-AS-AP - China Education and Research Network (CERNET), CN
+138377, 58368, CNGI-XNN-IX-AS-AP - China Education and Research Network (CERNET), CN
+138378, 231168, CNGI-KMN-IX-AS-AP - China Education and Research Network (CERNET), CN
+138381, 79104, CNGI-GYN-IX-AS-AP - China Education and Research Network (CERNET), CN
+138393, 104448, CNGI-NAN-IX-AS-AP - China Education and Research Network (CERNET), CN
+138407, 30464, CMNET-GZIDC-CN - China Mobile Communications Corporation, CN
+138421, 175872, CU-CN-AS - China Unicom, CN
+138438, 83968, CNGI-GLN-IX-AS-AP - China Education and Research Network (CERNET), CN
+138440, 91392, CNGI-HAK-IX-AS-AP - China Education and Research Network (CERNET), CN
+138441, 197888, CNGI-WLQ-IX-AS-AP - China Education and Research Network (CERNET), CN
+138442, 22784, CNGI-LSA-IX-AS-AP - China Education and Research Network (CERNET), CN
+138538, 8448, NANBIAN-VPSORGLOBAL-AS - Ningbo Nanbian Tuoluo Xinxi Jishu Co., Ltd, CN
+138545, 1024, ZCCCCL-AS-AP - Zero Cirrus Cloud Computing (Shanghai) Co., Ltd., CN
+138570, 2304, CT-Anqing-IDC - China Telecom, CN
+138949, 1792, CHINANET-JIANGSU-KUNSHAN-IDC - China Telecom, CN
+138950, 75264, CHINATELECOM-Jiangsu-Wuxi-International-IDC - China Telecom, CN
+138982, 18688, CHINANET-Hubei-Jiangxia-IDC - China Telecom, CN
+138991, 3584, CHINATELECOM-GUANGXI-LIUZHOU-IDC - China Telecom, CN
+139007, 119296, UNICOM-NM-WuLanChaBu-IDC - UNICOM InnerMongolia province network, CN
+139018, 16128, CHINANET-Henan-Luoyang-IDC - China Telecom, CN
+139019, 145408, CHINANET-Henan-Xinxiang-MAN - China Telecom, CN
+139061, 512, SG-CHINA-CN - Societe Generale (China) Limited, CN
+139080, 64768, CMNET-SCIDC-CN - China Mobile Communications Corporation, CN
+139090, 512, WXEIMSC - Wuxi Education Information Management Service Center, CN
+139099, 4096, GEELY - Zhejiang Geely Holding Group, CN
+139110, 1024, Newcampus1-lenovo - Lenovo Mobile Communication Technology (Beijing) Ltd, CN
+139118, 1536, RuguInfo - Shanghai Rugu Info&Tech Co.,Ltd., CN
+139122, 256, BMAC - BEIJING MUNICIPAL ADMINISTRATION COMMUNICATION CARD CO..LTD, CN
+139136, 256, NNIX-HZ - ZHEJIANG PROVINCE NEW-TYPE INTERNET EXCHANGE POINT CO.,LTD., CN
+139138, 1024, GOPAY - Gopay Information Technology Co.,Ltd, CN
+139139, 512, SYAUNET - Shenyang Agricultural University, CN
+139141, 512, YUSYS-FINANCIAL-CLOUD - Yusys Financial Cloud, CN
+139148, 512, CHINAUNIONPAY - China UnionPay Co., Ltd, CN
+139154, 4608, CEGN-SD - Big Data Center Of Shandong Province, CN
+139172, 2048, Woodnn-network - Hangzhou Woodnn Technology Co., Ltd., CN
+139177, 1024, EDU - New Oriental Education & Technology Group Ltd., CN
+139178, 256, NXY-BJ - Rural Credit Banks Funds Clearing Center, CN
+139179, 512, CPIC - China Pacific Insurance (Group) Co.,Ltd., CN
+139180, 3840, SDYXT - Shandong eshinton Network Technology Co., Ltd., CN
+139182, 512, ABCLIFE-NET - ABC Life Insurance Co., Ltd, CN
+139183, 256, TRLCNET - Thomson Reuters (Beijing) Technology Development Co. Ltd, CN
+139189, 256, YuJiaHengTong - Beijing Yu Jia Heng Tong Communications and Information Co., Ltd., CN
+139201, 26368, CHINANET-Jiangxi-Jiujiang-IDC - China Telecom, CN
+139203, 29952, CHINANET-Guizhou-Guian-IDC - China Telecom, CN
+139220, 22528, CHINANET-Sichuan-Chuanxi-IDC - China Telecom, CN
+139266, 512, GTITCL-AS-AP - Guangzhou Tiansui Information Technology Co., Ltd., CN
+139462, 7168, CHINANET-GY-AS - China Telecom, CN
+139587, 4608, CHINANET-Henan-Zhengzhou-Shujugang-IDC - China Telecom, CN
+139721, 2048, CHINATELECOM-AnHui-HeFei-MAN - China Telecom, CN
+139726, 768, GYC-AS-AP - Guangdong Yunjie Communication Co., Ltd., CN
+139742, 512, PEDDIE-AS-AP - Peddie Institute Co., Ltd, CN
+139743, 256, SHENZHENSHIFANGTEC-AS-CN - Shen Zhen Shi Fang Technology Co., Limited, CN
+139767, 256, CHINANET-AS-OA - China Telecom, CN
+139799, 256, BDIITCL-AS-AP - Beijing Dajia Internet Information Technology Co., Ltd., CN
+139887, 6656, ChinaNet-Yantai-IDC - China Telecom, CN
+139888, 256, TIME-GLOBAL-AS-AP - Time Network, CN
+140056, 256, CHINANET-MAOMING-AS-AP - China Telecom, CN
+140061, 516608, CHINANET-Qinghai-AS-AP - China Telecom, CN
+140083, 13568, CHINANET-ANHUI-AS-AP - China Telecom, CN
+140105, 21248, CMNET-SNIDC-CN-AP - China Mobile Communications Corporation, CN
+140265, 59904, CHINATELECOM-SiChuan-Chengdu-5G-Network - China Telecom, CN
+140276, 45312, CHINATELECOM-SiChuan-Luzhou-5G-Network - China Telecom, CN
+140278, 33280, CHINATELECOM-SiChuan-Mianyang-5G-Network - China Telecom, CN
+140279, 12800, CHINATELECOM-SiChuan-Nanchong-5G-Network - CHINATELECOM SiChuan province Nanchong 5G network, CN
+140292, 702720, CHINATELECOM-JIANGSU-SUZHOU-5G-NETWORK - China Telecom, CN
+140308, 327680, CHINATELECOM-GUANGDONG-ZHUHAI-5G-NETWORK - China Telecom, CN
+140310, 202496, CHINATELECOM-GUANGDONG-DONGGUAN-5G-NETWORK - China Telecom, CN
+140312, 488192, CHINATELECOM-GUANGDONG-ZHANJIANG-5G-NETWORK - China Telecom, CN
+140313, 394496, CHINATELECOM-GUANGDONG-ZHAOQING-5G-NETWORK - CHINATELECOM Guangdong province Zhaoqing 5G network, CN
+140314, 189696, CHINATELECOM-GUANGDONG-SHANTOU-5G-NETWORK - CHINATELECOM Guangdong province Shantou 5G network, CN
+140315, 207360, CHINATELECOM-GUANGDONG-JIEYANG-5G-NETWORK - China Telecom, CN
+140316, 395776, CHINATELECOM-GUANGDONG-CHAOZHOU-5G-NETWORK - China Telecom, CN
+140317, 741888, CHINATELECOM-GUANGDONG-SHAOGUAN-5G-NETWORK - China Telecom, CN
+140330, 4096, CHINATELECOM-FUJIAN-XIAMEN-5G-NETWORK - China Telecom, CN
+140345, 49664, CHINATELECOM-YUNNAN-SHENGJI-5G-NETWORK - China Telecom, CN
+140485, 98816, CHINATELECOM-ZHEJIANG-HANGZHOU-5GC-NETWORK - China Telecom, CN
+140527, 39424, CHINANET-ANHUI-WUHU-IDC - China Telecom, CN
+140553, 79872, CHINATELECOM-XINJIANG-SHENGJI-5G-NETWORK - China Telecom, CN
+140633, 512, BILIBILIHKLIMITED-AS-AP - BILIBILI HK LIMITED, CN
+140636, 6144, CHINANET-IOT-BEIJING - China Telecom, CN
+140638, 9216, CHINANET-IOT-SICHUAN - China Telecom, CN
+140647, 92928, CHINATELECOM-GUIZHOU-SHENGJI-5G-NETWORK - China Telecom, CN
+140707, 10240, UNICOM-NXZW-IDC - China Unicom, CN
+140709, 256, BKCTCL-AS-AP - Beijing Kaopu Cloud technology co. LTD, CN
+140716, 52992, UNICOM-JSWX-IDC - China Unicom, CN
+140717, 20736, UNICOM-JSSZ-IDC - China Unicom, CN
+140720, 512, UNICOM-JSNT-IDC - China Unicom, CN
+140726, 139520, UNICOM-HEFEI-MAN - China Unicom, CN
+140731, 256, TOHU-OP-AP - TOHU Public Internet, CN
+140886, 6656, UNICOM-GX-IDC - China Unicom, CN
+140903, 291328, CHINANET-HEBEI-BAODING-MAN - China Telecom, CN
+140979, 63488, UNICOM-SHFT-IDC - China Unicom, CN
+141005, 256, SDEPN-AS-CN - China Education and Research Network (CERNET), CN
+141157, 2304, GUANGXI-TELECOM-NANNING-WUXIANGYUANYANG-IDC - China Telecom, CN
+141425, 37888, CMNET-GUANGDONG-CN - China Mobile Communications Corporation, CN
+141679, 50688, CHINATELECOM-IDC-BTHBD-AP - China Telecom, CN
+141739, 61440, CT-CHONGQING-MAN2-AP - China Telecom, CN
+141771, 164352, CHINANET-HEBEI-ZHANGJIAKOU-MAN - China Telecom, CN
+141776, 256, BAOSHUO-AS-AP - Baoshuo Network, CN
+141998, 49664, CHINANET-LANZHOU-IDC - China Telecom, CN
+142111, 15616, AIYUN-AS-AP - Zhejiang Aiyun Network Technology Co Ltd, CN
+142404, 4096, CHINANET-AS-AP - China Telecom, CN
+142608, 4864, ChinaNet-Anhui-Bengbu-IDC - China Telecom, CN
+142611, 512, STITCL-AS-AP - Shanghai Tujuan Information Technology Co., Ltd., CN
+146746, 512, TAIKANG-INSURANCE-WUHAN - TaiKang Insurance Group CO.,LTD.,Wuhan Operating Center, CN
+146758, 512, SENSETIME - ShangHai Sensetime Technology Development Co., Ltd., CN
+146771, 256, CCBFT - CCB Fintech Co., Ltd., CN
+146772, 3584, PengChengNet - Shenzhen Pengcheng communication network Co., Ltd, CN
+146774, 512, F1st - Hardcore Communication Co., CN
+146792, 256, SHENFU-CN - Shanghai Shenfu Information Technology Co., Ltd, CN
+146809, 1024, baolirongtong - Poly facility (Beijing) Technology Co., Ltd., CN
+146812, 512, DBCN-WEB - Deutsche Bank (China) Co., Ltd. Shanghai Branch, CN
+146814, 512, HKUST-GZ - Hong Kong University of Science and Technology, Dongchung Town, CN
+146817, 512, FXNET - Hubei Feixun Network Co., Ltd, CN
+146822, 256, CHINANET-XINFU - Shenzhenshi Zhongyun Shujujishu Youxiangongsi, CN
+146834, 6144, XunYou - SiChuan XunYou Network Technologe Limit, co, CN
+146842, 2560, CDC-SAP-DC-SHA - ChinaDataCom Corporation Limited, CN
+146845, 512, LJNET - Shanghai Longjing Information Technology Co., Ltd, CN
+146966, 18944, CHINANET-YANGZHOUNORTH-IDC - China Telecom, CN
+147008, 256, DIANJIANG-AS-AP - Shenzhen Dianjiang Technology Co Ltd, CN
+147038, 512, CHINANET-QINGYANG-IDC - China Telecom, CN
+148969, 6144, CHINANET-JIANGXI-LINKONG-IDC - China Telecom, CN
+148981, 19968, CHINANET-HUBEI-SHIYAN-IDC - China Telecom, CN
+149178, 16384, CT-HEFEI-NANGANG-IDC - China Telecom, CN
+149475, 256, NTITC-AS-AP - Nanjing Tiankai Information Technology Co.Ltd., CN
+149648, 512, FLNTCL-AS-AP - Fuzhou Lefeng Networks Technology Co., Ltd., CN
+149793, 256, BXNTCL-AS-AP - Xin Yang Bai Xing Network Tecnology Co., Ltd, CN
+149837, 8192, ChinaNet-JX-Yunhe-IDC - China Telecom, CN
+149979, 1280, ChinaNet-Hunan-Across-region-IDC - China Telecom, CN
+150145, 8448, CHINANET-HUBEI-SANXIA-IDC - China Telecom, CN
+150166, 256, NDB-AS-AP - The New Development Bank, CN
+150374, 512, JMSTDCCL-AS-AP - Jiang Men Shi Tian Da Cloud Co. Ltd, CN
+150400, 256, SHENZHEN4-AS-AP - Shenzhen Qiaolian Network Technology Co., Ltd., CN
+150775, 512, SZNCL-AS-AP - Shenzhen Zhian Network Co., Ltd., CN
+151311, 2304, HMKJ - Shenzhen Humeng Technology Co., Ltd, CN
+151313, 512, TAIBAO-KEJI-NET - Pacific Insurance Technology Co., Ltd, CN
+151397, 256, CT-eSurfingCloud-CDN - China Telecom, CN
+151464, 256, LUOGU-AS-AP - Shanghai Luogu Network Technology Co., Ltd., CN
+151640, 768, QINGYETECHNOLOGY-AS-AP - Bengbu Qingye Technology, CN
+151823, 1024, CT-Centralsouth-China-IIP - China Telecom, CN
+152092, 256, HACCTCL-AS-AP - Henan Angran Cloud Computing Technology Co. Ltd, CN
+152157, 256, MISAKANETWORK-AS-AP - Misaka Network Ltd, CN
+198304, 256, GugeNET - Pinjia Zhao, CN
+199406, 256, JINHAN-NET - Jin Han Shen trading as Yinyun Network Technology Studio, CN
+203691, 256, LIMA-AS - Li Ma, CN
+205651, 256, CATOFES - Hao Qiao, CN
+206628, 768, EricNet - Tianyu-Zhu, CN
+208830, 1024, IFANR - ifanr Inc., CN
+208993, 256, MMRNET - Wei Xiaofan, CN
+209218, 256, Fish-Network-AS - Yang Qi, CN
+209294, 256, FansNET - Fan Zhang, CN
+209306, 256, SOHANET - Jin Shaohai, CN
+209574, 256, HEXNET-AS - Xiao Tan, CN
+209650, 256, ZHIYUAN-AS - Wu Zhiyuan, CN
+209864, 256, NAIVE-NETWORK - Zhaofeng Li, CN
+210041, 256, WALS5H-AS - Licheng MAO, CN
+211051, 256, yeapcloud-network - Dazhong Technology Network Studio of Tieling County, CN
+211843, 256, TIANKAI-AS - Nanjing Tiankai Information Technology Co.Ltd., CN
+212237, 1024, PXNET - Changgong Zhang, CN
+212371, 2048, HUIGU-AS - Huizhou HuiGu CloudTech Co., Ltd., CN
+215906, 1024, FANLILI - Lili Fan, CN

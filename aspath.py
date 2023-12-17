@@ -8,13 +8,13 @@ import matplotlib.pyplot as plt
 # Create an instance of a simple undirected graph
 #as_graph = nx.Graph()
 as_graph = nx.DiGraph()
-
+f = open("2017-08-01.txt","w")
 bgp_lens = defaultdict(lambda: defaultdict(lambda: None))
 
 stream = pybgpstream.BGPStream(
     # Consider this time interval:
     # Sat, 01 Aug 2015 7:50:00 GMT -  08:10:00 GMT
-    from_time="2015-08-01 07:58:00", until_time="2015-08-01 08:00:00",
+    from_time="2017-08-01 07:59:00", until_time="2017-08-01 08:00:00",
     collectors=["rrc00"],
     record_type="ribs",
 )
@@ -32,6 +32,7 @@ for rec in stream.records():
             # Add new edges to the NetworkX graph
             for i in range(0,len(hops)-1):
                 as_graph.add_edge(hops[i+1],hops[i])
+                f.write(str(hops[i+1])+','+str(hops[i])+'\n')
             # Update the AS path length between 'peer' and 'origin'
             bgp_lens[peer][origin] = \
                 min(list(filter(bool,[bgp_lens[peer][origin],len(hops)])))
@@ -45,7 +46,7 @@ for rec in stream.records():
 #        print((peer, origin, bgp_lens[peer][origin], nxlen))
 #
 # 绘制图形
-nx.draw(as_graph, with_labels=False, arrows=True)
+#nx.draw(as_graph, with_labels=False, arrows=True)
 
 # 显示图形
-plt.show()
+#plt.show()
