@@ -1,0 +1,728 @@
+173, 8704, 0, NTTECL-AS - Nippon Telegraph and Telephone Corporation, JP
+2497, 3869184, 17716871168, IIJ - Internet Initiative Japan Inc., JP
+2500, 196608, 4294967296, WIDE-BB - WIDE Project, JP
+2501, 200704, 4294967296, UTnet - The University of Tokyo, JP
+2504, 132096, 0, NCA5 - Kyoto University, JP
+2505, 74240, 0, HEPNET-J - High Energy Accelerator Research Organization, KEK, JP
+2506, 214272, 4294967296, SuperCSI - NTT WEST CHUGOKU CORPORATION, JP
+2508, 65536, 0, kyushu-u - Kyushu University, JP
+2510, 2492672, 4294967296, INFOWEB - FUJITSU LIMITED, JP
+2511, 41728, 0, CORE - Nippon Telegraph and Telephone Corporation, JP
+2512, 23040, 0, TCP-NET - TCP Inc., JP
+2513, 65536, 0, JST - Japan Science and Technology Agency, JP
+2514, 2084608, 12884901888, InfoSphere - NTT PC Communications, Inc., JP
+2515, 3072, 4294967296, JPNIC - Japan Network Information Center, JP
+2516, 18175744, 2757369069568, KDDI - KDDI CORPORATION, JP
+2518, 3670016, 38654705664, BIGLOBE - BIGLOBE Inc., JP
+2519, 1624064, 103079215104, VECTANT - ARTERIA Networks Corporation, JP
+2522, 229120, 0, PPP-EXP - Japan Network Information Center, JP
+2523, 65536, 4294967296, ITRC-NET - Internet Technology Research Consortium, JP
+2526, 67584, 65536, HITNET - Global Solution 2nd Office. IT Strategy & Digital Integration Division. Hitachi, Ltd., JP
+2527, 3851264, 141733920768, So-net - Sony Network Communications Inc., JP
+2907, 8857408, 8589934592, SINET-AS - Research Organization of Information and Systems, National Institute of Informatics, JP
+2915, 21504, 4294967296, BBIX-OCX - BBIX, Inc., JP
+3488, 115200, 0, JAXAnet - Information Systems Department, Japan Aerospace Exploration Agency, JP
+4672, 8192, 65536, KYNDRYLNET - Kyndryl Japan KK, JP
+4673, 258048, 4294967296, INTERVIA - NTT DATA CORPORATION, JP
+4675, 31488, 4294967296, U-NETSURF - UNIADEX, LTD., JP
+4677, 56832, 0, PTOP - Marubeni OKI Network Solutions Inc., JP
+4678, 94208, 4294967296, FINE - Canon IT Solutions Inc., JP
+4680, 49152, 4294967296, MIND - Mitsubishi Electric Information Network Corporation, JP
+4685, 1277952, 38654705664, ASAHI-NET - Asahi Net, JP
+4686, 158720, 4294967296, BEKKOAME - BEKKOAME INTERNET INC., JP
+4690, 256, 16777216, WIDE-SFO - WIDE Project, JP
+4693, 45056, 4294967296, CSK - CSK-IT MANAGEMENT CORPORATION, JP
+4694, 1046528, 17179869184, IDCF - IDC Frontier Inc., JP
+4695, 20480, 0, URBAN - Energia Communications, Inc., JP
+4697, 3328, 4294967296, NTTV6NET - Nippon Telegraph and Telephone Corporation, JP
+4711, 54272, 4294967296, INTEC - INTEC Inc., JP
+4713, 28745728, 4406636511232, OCN - NTT Communications Corporation, JP
+4717, 640, 4294967296, AI3 - WIDE Project, JP
+4718, 1024, 4294967296, CKP - Cyber Kansai Project, JP
+4721, 631808, 4294967296, JCN - JCOM Co., Ltd., JP
+4723, 41984, 0, DOLPHIN - Dolphin, JP
+4725, 2008064, 4294967296, ODN - SoftBank Corp., JP
+4729, 131072, 0, JAEA - Japan Atomic Energy Agency, JP
+4730, 67584, 0, ODINS - Osaka University, JP
+4774, 1024, 0, ABONE-AS - Internet Initiative Japan, Inc., JP
+4777, 512, 1073741824, APNIC-COLO - Asia Pacific Network Information Centre, JP
+4785, 18432, 42950066176, XTOM-AS-JP - xTom Limited, JP
+7500, 768, 4294967296, M-ROOT-DNS - WIDE Project, JP
+7502, 74240, 0, IP-KYOTO - Advanced Software Technology & Management Research Institute of KYOTO, JP
+7503, 16384, 4294967296, AIR - Air Internet Service Co.,Ltd., JP
+7505, 21504, 4294967296, MEDIAWEB - Fujitsu Systems Applications & Support Limited, JP
+7506, 261632, 268763136, INTERQ - GMO Internet,Inc, JP
+7509, 131328, 0, HINET - Hokkaido University, JP
+7511, 78848, 4294967296, SYNAPSE - SYNAPSE Co.,Ltd., JP
+7513, 2048, 0, SHIELD - Hitachi Systems, Ltd., JP
+7514, 187392, 4294967296, MEX - Computer Engineering & Consulting, Ltd., JP
+7516, 119040, 536870912, TOHKNET - TOHKnet Co.,Inc., JP
+7521, 4864, 4294967296, MFEED - INTERNET MULTIFEED CO., JP
+7522, 594944, 4294967296, STCN - STNet, Incorporated, JP
+7524, 291584, 4294967296, HANSHIN - ITEC HANKYU HANSHIN CO.,LTD., JP
+7527, 1536, 4294967296, JPIX - Japan Internet Xing Co., Ltd., JP
+7529, 16640, 4294967296, NETIRD - NetIRD Inc., JP
+7530, 2048, 4294967296, BBTower-Lab - BroadBand Tower, Inc., JP
+7603, 0, 65536, GENECOMPUTINGLTD-AS-AP - GENE COMPUTING LTD., JP
+7660, 1024, 553648128, APAN-JP - Asia Pacific Advanced Network - Japan, JP
+7663, 8192, 0, FFNET - FUJIMIC INC., JP
+7664, 9216, 4294967296, HARENET - HARENET INC., JP
+7665, 8192, 4294967296, OKIX - Okayama Prefectural Government, JP
+7667, 1280, 21037056, KDDLAB - KDDI R&D Laboratories, INC., JP
+7668, 29696, 4294967296, HTCN - Hokuriku Telecommunication Network Co., JP
+7670, 132608, 4294967296, CTNET - Energia Communications, Inc., JP
+7671, 450560, 21474836480, MCNET - NTT SmartConnect Corporation, JP
+7672, 68608, 4294967296, FITWEB - Hokuden Information System Service Co.,Ltd., JP
+7674, 1280, 65536, GOFORS - NTT Communications Corporation, JP
+7676, 39680, 12884901888, TAM - TAM-Internet Service (T.A.M Co., Ltd.), JP
+7677, 13568, 0, DNP - Dai Nippon Printing Co., Ltd, JP
+7678, 8192, 0, PROX - Prox System Design Inc., JP
+7679, 696320, 4295032832, QTNET - QTnet,Inc., JP
+7682, 35840, 4294967296, HOTNET - HOKKAIDO TELECOMMUNICATIONS NETWORK Co., Inc., JP
+7684, 364032, 4294967296, SAKURA-A - SAKURA Internet Inc., JP
+7686, 8192, 0, ATNETHOME - JCOM Co., Ltd., JP
+7687, 208896, 4294967296, D-CRUISENET - TOYOTA DIGITAL CRUISE.INCORPORATED, JP
+7690, 38400, 4294967296, MIRAI - Mirai Communication Network Inc., JP
+9351, 249856, 4294967296, ZLAN - ZTV CO.,LTD, JP
+9353, 6144, 0, MEDIAWARS - MEDIAWARS co.,ltd., JP
+9354, 180224, 4294967296, TDNC - Community Network Center Inc., JP
+9355, 65536, 65536, NICT - National Institute of Information and Communications Technology, JP
+9357, 32768, 65536, FNC - NRI SecureTechnologies, Ltd., JP
+9358, 8192, 0, Finder - OPTAGE Inc., JP
+9365, 404480, 4294967296, iTSCOM - its communications Inc., JP
+9366, 65536, 0, SOLITON - SOLITON-NET, JP
+9367, 65536, 4294967296, TITECH - Tokyo Institute of Technology, JP
+9370, 340992, 68719476736, SAKURA-B - SAKURA Internet Inc., JP
+9371, 305920, 4294967296, SAKURA-C - SAKURA Internet Inc., JP
+9374, 165888, 4294967296, EDION - EDION Corporation, JP
+9378, 45056, 0, CABLENET - JCOM Co., Ltd., JP
+9409, 256, 16777216, RAPIDFIREYJP-AS-AP - Rapid-Fire-y, JP
+9466, 10752, 33554432, UUNET-JP-AP - Verizon Japan Limited, JP
+9591, 65536, 0, NIFS - National Institute for Fusion Science, JP
+9593, 65536, 0, NIKKEI - Nikkei Inc., JP
+9595, 1644544, 4410931412992, XEPHION - NTT-ME Corporation, JP
+9597, 276736, 4294967296, CPI-NET - KDDI Web Communications Inc., JP
+9598, 256, 0, MPLS-OCN - NTT Communications Corporation, JP
+9600, 82944, 4294967296, SONYTELECOM - So-net Corporation, JP
+9601, 27648, 3758096384, SHIBATA - Niigata Communication Service, JP
+9604, 14336, 0, FSI-AS - FUJI SOFT INCORPORATED, JP
+9605, 2465280, 5964103680, docomo - NTT DOCOMO, INC., JP
+9607, 29184, 4294967296, BBTower - BroadBand Tower, Inc., JP
+9614, 165888, 0, OCT - Oita Cable Telecom Co,ltd., JP
+9615, 71680, 0, TEES - TOYOHASHI CABLE NETWORK INC., JP
+9617, 1163264, 4294967296, ZAQ - JCOM Co., Ltd., JP
+9618, 16384, 4294967296, TCN - catv-tokushima, JP
+9619, 135168, 4294967296, SSD - Sony Global Solutions Inc., JP
+9621, 52224, 4294967296, II-OKINAWA - Okinawa Telecommunication Network Co.,Inc, JP
+9622, 71680, 4294967296, KCT - Kurashiki Cable TV, JP
+9743, 256, 0, NIPPONEDUIX-AS-AP - Nippon EDUIX, JP
+9824, 4745216, 38654705664, JTCL-JP-AS - JCOM Co., Ltd., JP
+9935, 256, 0, AGNSCUS-HK - AT&T Japan K.K., JP
+9990, 4096, 0, NIandC - Nippon Information and Communication Corporation, JP
+9991, 65536, 0, SHUDO-U - Hiroshima Shudo University, JP
+9993, 91136, 4294967296, CTC-ODC - ITOCHU Techno-Solutions Corporation, JP
+9997, 157696, 4294967296, MECHA - Suzuka Cable Co.,Ltd, JP
+9999, 20224, 4294967296, ATTOKYO - AT TOKYO Corporation, JP
+10000, 69632, 4294967296, NCM - Nagasaki Cable Media Inc., JP
+10001, 36864, 4294967296, MICSNET - Mics Network Corporation, JP
+10002, 24576, 4294967296, ICT - IGAUENO CABLE TELEVISION CO.,LTD, JP
+10003, 40960, 4294967296, OCT-NET - Ogaki Cable Television Co.,Inc., JP
+10004, 25344, 4294967296, AS-PHOENIX-J - Phoenix Communications Inc., JP
+10006, 138496, 131072, SECOMTRUST - SECOM Trust Systems Co.,Ltd., JP
+10010, 1502464, 45097222144, TOKAI - TOKAI Communications Corporation, JP
+10011, 18432, 4294967296, ADVAN - advanscope inc., JP
+10012, 20480, 4294967296, FUSION - Rakuten Mobile, Inc., JP
+10013, 1824768, 8589934592, FBDC - FreeBit Co.,Ltd., JP
+10014, 65536, 65536, NIHON-U - Nihon University, JP
+10015, 6400, 0, CWJ-NET - Cyber Wave Japan Co., Ltd., JP
+10016, 4096, 0, MINC - Minaminihon Information Processing Center Co Ltd, JP
+10019, 38912, 4294967296, MCTV - Matsusaka Cable-TV Station Inc., JP
+10021, 120064, 4295032832, KVH - KVH Co.,Ltd, JP
+10209, 512, 0, Synopsys-AS-JP-AP - Synopsys, JP
+17504, 3072, 0, NETCOM - NRI Netcom, Ltd., JP
+17505, 6656, 0, SBmobile - SoftBank Corp., JP
+17506, 5382144, 4294967296, UCOM - ARTERIA Networks Corporation, JP
+17509, 6144, 4294967296, STARNET - STARNET Co.,Ltd., JP
+17510, 65536, 0, ISID - INFORMATION SERVICES INTERNATIONAL - DENTSU, LTD., JP
+17511, 3060480, 4295032832, OPTAGE - OPTAGE Inc., JP
+17512, 65536, 0, JAL - Japan Airlines Co.,Ltd., JP
+17514, 83968, 4294967296, AICS - Otsuka Corp., JP
+17516, 131072, 4294967296, NTTCOMWARE - NTT COMWARE CORPORATION, JP
+17518, 8192, 0, SHIOJIRI - Shiojiri City, JP
+17523, 65536, 65536, AOYAMA - Aoyama Gakuin University, JP
+17529, 135168, 4294967296, MediaCat - STARCAT CABLE NETWORK Co .,LTD., JP
+17530, 38912, 4294967296, NNS - Nihon Network Service Co, .Ltd., JP
+17534, 91136, 8589934592, NSK - NSK Co.,Ltd., JP
+17661, 30208, 0, NHN-JAPAN - NHN JAPAN Corp., JP
+17675, 48128, 8589934592, AS-PNAPTOK - Unitas Global Co., Ltd., JP
+17676, 43483648, 18695992639488, GIGAINFRA - SoftBank Corp., JP
+17678, 8704, 4294967296, WIND - Gunma Internet Co,.ltd, JP
+17680, 6144, 0, SCS - SCSK Corporation, JP
+17682, 23552, 4294967296, CABLENET296 - 296 BROAD NET Com Inc, JP
+17683, 17408, 4294967296, WINTECH-COM - Wingtechnology Communications, Inc., JP
+17685, 4096, 0, PLAYONLINE - SQUARE ENIX CO., LTD., JP
+17686, 63488, 4294967296, ACCELIA - ACCELIA, JP
+17687, 131328, 0, NICE - National University Corporation Nagoya University, JP
+17689, 9728, 4294967296, H-IX - Hokuden Information Technology,Inc., JP
+17691, 21504, 0, TikiTiki - NDS Co., Ltd., JP
+17693, 7168, 4294967296, NEKONET - YAMATO SYSTEM DEVELOPMENT CO., LTD., JP
+17694, 8192, 0, JPN-DBJP - Deutsche Bank Group, Japan BGP connection, JP
+17698, 174080, 0, CCNET-NET - COMMUNITY NETWORK CENTER INCORPORATED., JP
+17699, 4096, 0, MEDiA - ARTERIA Networks Corporation, JP
+17701, 65536, 65536, SEINAN - Seinan Gakuin University, JP
+17707, 91392, 4294967296, DATAHOTEL-JP - NHN Techorus Corp., JP
+17905, 256, 0, COMMERZBANK-AP-DRT - Dresdner Kleinwort Wasserstein Ltd, JP
+17931, 20480, 4294967296, NETFOREST - Netforest,Inc., JP
+17932, 65792, 131072, JAIST - Japan Advanced Institute of Science and Technology, JP
+17934, 4096, 4294967296, JGNv6 - National Institute of Information and Communications Technology, JP
+17936, 18432, 4294967296, CTK - Cable  Television  Kani Co.,Inc., JP
+17937, 5376, 4294967296, NDMC - NIKKEI ADVANCED SYSTEMS INC., JP
+17939, 71680, 4294967296, MCN-NET01 - miyazaki cabletelevision network Co.,LTD, JP
+17940, 8704, 4294967296, CYBERLINKS - CYBER LINKS Co.,Ltd., JP
+17941, 157184, 4294967296, BIT-ISLE - Equinix Japan Enterprise K.K., JP
+17944, 65792, 65536, JWA - Japan Weather Association, JP
+17946, 65536, 0, GUCC - Gifu University, JP
+17947, 69632, 0, S-UTOPIA - SAKURA KCS Corporation., JP
+17948, 7168, 4294967296, EditNet - EditNet, Incorporated, JP
+17950, 24576, 0, SaiNet-AS - SaiNet, JP
+17953, 4096, 4294967296, ICO - BroadBand Security, Inc., JP
+17955, 35328, 4294967296, AVISNET - Densan Co., Ltd., JP
+17956, 65536, 0, WASEDA - WASEDA University, JP
+17957, 19456, 0, CTS - SOUTH TOKYO CABLETELEVISION, JP
+17958, 21504, 4294967296, KCV - Kasaoka Cable Vision Co,LTD., JP
+17960, 65536, 0, RAINS-AS - University of the Ryukyus, JP
+17961, 67584, 4294967296, MITENE - mitene internet co., ltd., JP
+17977, 8192, 0, SINGTEL-JP - Singapore Telecom Japan Ltd, JP
+18068, 46592, 4311744512, ACROSS - Dream Wave Shizuoka Co. Ltd., JP
+18069, 65536, 0, SOFTBANK - SB Technology Corp., JP
+18070, 13312, 4294967296, NDAC - Global Network Core Co.,Ltd., JP
+18071, 16672, 0, MEI1 - Panasonic Information Systems Co., Ltd, JP
+18072, 1280, 0, STREAMWING - NTT Communications, Corp., JP
+18074, 4096, 4294967296, FRT - FRT Inc., JP
+18075, 12288, 0, HICAT - Chupicom Inc., JP
+18076, 2048, 0, WCE-IAMAS - Institute of Advanced Media Arts and Sciences, JP
+18077, 143872, 4294967296, C-able - Yamaguchi Cable Vision Co.,Ltd, JP
+18081, 442368, 4294967296, KCN - Kintetsu Cable Network Co., Ltd., JP
+18087, 65536, 65536, TOYO - Toyo University, JP
+18088, 6144, 0, QIC - Kyuden Infocom Company Inc, JP
+18090, 2048, 0, MAGMA - IMS Corporation, JP
+18091, 1024, 0, TEIKYO-U - Teikyo University, JP
+18092, 45056, 4294967296, CSF - Kyushu Tele Communications Company, JP
+18094, 17408, 0, TCN-AS - Tokyo Cable Network.,INC, JP
+18097, 85760, 4294967296, DCN - D.C.N. Corporation, JP
+18121, 23040, 4294967296, INCL - Ishikawa Computer Center Co.,LTD., JP
+18123, 1536, 65536, SEIRYO - INAOKI EDUCATIONAL INSTITUTION, JP
+18124, 65536, 65536, OUS-NET - Okayama University of Science, JP
+18125, 65536, 4294967296, MAFFIN - Ministry of Agriculture, Forestry and Fisheries Research Network, JP
+18126, 1351424, 8589934592, CTCX - Chubu Telecommunications Company, Inc., JP
+18127, 3584, 4294967296, Ibaraki - Ibaraki Prefectural Government, JP
+18128, 65536, 0, RIKEN - RIKEN, JP
+18129, 32256, 0, ONI - OKAYAMA NETWORK INC., JP
+18131, 512, 131072, IR3 - NTT Communications Corporation, Digital Transformation, JP
+18134, 29696, 0, KITANET - JCOM Co., Ltd., JP
+18135, 38912, 4294967296, BTV - BTV CO.,LTD., JP
+18136, 43008, 0, CTA - JCOM Co., Ltd., JP
+18139, 1536, 4294967296, HISOL-CSV - Hitachi Solutions, Ltd., JP
+18140, 4096, 0, YAHOO-18140 - Yahoo Japan Corporation, JP
+18141, 4096, 0, HBA-iDC - HBA, JP
+18142, 12288, 0, BIWALOBE - KISTEM Co., Ltd., JP
+18143, 4096, 0, DCSNET - Mitsubishi Research Institute DCS Co.,Ltd., JP
+18144, 291840, 34359738368, AS-ENECOM - Energia Communications,Inc., JP
+18148, 65024, 4294967296, FUKUOKA-U - Fukuoka University, JP
+18149, 1024, 131072, JPRS - Japan Registry Service Co., Ltd., JP
+18150, 32768, 0, SNI-JP - NetComBB Co.,Ltd., JP
+18258, 8448, 0, MS-JP-AS-AP - Morgan Stanley Japan Group Co., Ltd., JP
+18259, 4096, 4311875584, HIGE - NTT Communications Corporation, JP
+18260, 80896, 4294967296, e-catv - EHIME CATV CO.,LTD., JP
+18263, 4096, 0, MEINET - MEITETSUCOM Co., Ltd., JP
+18264, 6144, 0, SEN - Seikei Eizo Network Inc., JP
+18266, 12288, 4294967296, ATNAP - Datacore Works Co.,Ltd., JP
+18267, 20480, 65536, DOSHISHA - Doshisha University, JP
+18268, 67072, 4294967296, JANIS - Naganoken Kyodou Densan Co.Ltd., JP
+18271, 69632, 0, EVOnet - Nissho Electronics Corporation, JP
+18272, 2048, 0, BC-NET - Benesse Corporation, JP
+18274, 26624, 0, UCATV - Utsunomiya Cable TV Corporation, JP
+18276, 65536, 0, KAISER - Kansai University, JP
+18278, 47104, 4294967296, CC9N - Cable TV Corporation, JP
+18279, 1024, 0, BUKKYO-U - Bukkyo University, JP
+18281, 20480, 16777216, TAC-NET - Tokoname New-TV Corporation, JP
+18282, 47104, 4294967296, CORALNET - Tonami System Solutions Co., Ltd., JP
+18283, 21504, 4294967296, CCV - Chupicom Inc., JP
+18289, 1024, 0, TAO_TORONTO - AT&T Japan K.K., JP
+18383, 4096, 0, CAHI-AS-JP - CAHI Corporation, JP
+23613, 6144, 0, NMTNET - New Media Tokushima Co.,ltd., JP
+23614, 5120, 0, I-KOCHI - Kochi Systems Co., Ltd., JP
+23615, 65536, 0, KUSANAGI - University of Shizuoka, JP
+23616, 3072, 4294967296, HNB - Hitachi Systems, Ltd., JP
+23618, 10240, 4294967296, ICV-NET - Ibara Broadcasting Company, JP
+23619, 8192, 0, E-OSAKA - SMARTVALUE Co.,Ltd., JP
+23620, 15360, 65536, DMM - DMM.com LLC, JP
+23623, 65536, 0, CHUO-U - Chuo University, JP
+23624, 34816, 4294967296, CHUKAI - Chukai Television Co,.Ltd., JP
+23627, 18432, 4294967296, UCVNET - UEDA CABLE VISION CO.,LTD., JP
+23628, 12288, 0, ACCSnet - Academic newtown Community Cable Service, JP
+23629, 27136, 4294967296, OCTV - Obihiro City Cable Co.,Ltd., JP
+23630, 12288, 0, CAC-NET - CAC Inc., JP
+23631, 6144, 4294967296, KISNET - Sofu System, Inc, JP
+23632, 4608, 0, TVT-NET - TVT Tsuyama Co.,Ltd., JP
+23633, 2048, 65536, LOCAL-IX - Niigata Communication Service, JP
+23634, 256, 536870912, E-DNS-JP - WIDE Project, JP
+23635, 16384, 0, CRCC - CRCCMedia Co.,ltd, JP
+23637, 56064, 4294967296, BI-CDN-IX - Equinix Japan Enterprise K.K., JP
+23639, 6144, 4294967296, ntt-bizlink - NTT Bizlink, Inc., JP
+23641, 6144, 4294967296, NSCS-NET - NS Computer Service Corporation, JP
+23642, 256, 65536, OBIS - OBIS, JP
+23661, 24832, 4294967296, CLARAONLINE - CLARA ONLINE, Inc., JP
+23720, 67072, 4294967296, RMNI-AS-AP - Rakuten Mobile, Inc., JP
+23748, 0, 65536, CAT-AS-AP - Cat Networks K.K., JP
+23761, 256, 0, XPEDITE-AS-JP - Xpedite Systems, JP
+23773, 4096, 0, EKZM - EKZM co.,ltd., JP
+23774, 256, 4294967296, A-DNS-JP - Japan Registry Service Co., Ltd., JP
+23775, 9216, 4294967296, Tamatele-NET - Tamashima TV Inc., JP
+23776, 6144, 4294967296, NEC - NEC Corporation, JP
+23777, 20992, 4294967296, VIPALETTE - NTT BUSINESS SOLUTIONS CORPORATION, JP
+23778, 20480, 4294967296, CANET - IMIZU CABLE NETWORK CO.,LTD., JP
+23779, 65536, 4294967296, N-BONE - NTT Communications Corporation, JP
+23780, 16384, 4294967296, CTB - CTB Media Inc., JP
+23781, 72704, 0, Toyama-AN-AS - Toyama University, JP
+23783, 42752, 4294967296, CNA - Cable Networks Akita Co.,ltd., JP
+23784, 18432, 0, POLEXCHENGE - SQUARE ENIX CO., LTD., JP
+23785, 45056, 0, SUNFIELD - SUN FIELD INTERNET LIMITED, JP
+23786, 22528, 4294967296, MABLE - San-in Cable Vision CO.,LTD, JP
+23788, 24576, 0, HICT - JCOM Co., Ltd., JP
+23790, 18432, 0, KCN-TV - JCOM Co., Ltd., JP
+23791, 51200, 4294967296, LCV - LCV Corporation, JP
+23793, 199936, 0, AIST - National Institute of Advanced Industrial Science and Technology, JP
+23794, 4096, 4294967296, BMCDN - Broadmedia Corporation, JP
+23795, 4096, 0, FURUKAWA - Fitec Corp., JP
+23798, 4096, 0, VRTC-NET - VR Techno Center,inc, JP
+23799, 1024, 0, NDA - National Defense Academy, JP
+23804, 8192, 0, AIN-NET - Nonprofit Organization Kitaura Hana Net, JP
+23805, 14336, 4294967296, WATVnet - Watarase Television Co.,Ltd, JP
+23807, 65536, 0, RITSUMEI - Ritsumeikan University, JP
+23808, 14336, 0, TOSHIMA-NET - TOSHIMA CABLE NETWORK CO.,LTD, JP
+23816, 66816, 4294967296, YAHOO - Yahoo Japan Corporation, JP
+23817, 12288, 0, KOCHI-IDC - Fujitsu Limited., JP
+23818, 3328, 0, JETINTERNET - JETINTERNET Corporation, JP
+23820, 73728, 4563402752, RAKUTEN - Rakuten Group, Inc., JP
+23822, 8192, 0, HAGINET - HAGI Television Co., Ltd., JP
+23824, 4096, 0, FUTURE - Future Spirits Co.,Ltd., JP
+23826, 1024, 0, DAIDO-IT - Daido University, JP
+23827, 7680, 4294967296, ANC-Net - Azumino Network Community TV, JP
+23828, 3072, 0, CHERRY-NET - Misaki Town, JP
+23829, 6144, 0, meon-yama - NTT NEOMEIT YAMAGUCHI CORPORATION, JP
+23831, 18432, 4294967296, CLOVERNET - NISIOWARI CATV CORPORATION, JP
+23833, 256, 0, MARUSAN-NET - Marusan Securities Co., LTD., JP
+23836, 4096, 4294967296, RELNET - RELATION Co., Ltd., JP
+23885, 1792, 131072, ORACLEV6-AS-AP - Oracle Corporation, JP
+23967, 4096, 0, PoD - Produce On Demand, Inc., JP
+24121, 7424, 33554432, ASN-EQIX-OSAKA-AP - Equinix Asia Pacific Pte Ltd, JP
+24229, 2304, 4294967296, KOCHI-IX - IX-layers, Inc., JP
+24248, 65536, 0, ASN-WADAI-U - Wakayama University, JP
+24249, 26624, 4294967296, JWAY - JWAY co., Ltd., JP
+24250, 2048, 0, MC-IDC - Miyagin Digital Solutions Co.,Ltd., JP
+24251, 15360, 0, ICNTV-NET - Iwakuni Cable Network Corporation, JP
+24252, 256, 4294967296, JPRS-NAYUTA - Japan Registry Service Co., Ltd., JP
+24253, 2048, 4294967296, J-Stream - J-Stream Inc., JP
+24254, 65536, 0, KYOTO-SU - Kyoto Sangyo University, JP
+24255, 25600, 4294967296, T-CATV - Tannan Cable Television Corporation, JP
+24257, 1024, 65536, JPIX-64ES - Japan Internet Xing Co., Ltd., JP
+24259, 19456, 4294967296, BC9 - kanuma cable television Corporation, JP
+24260, 512, 0, KINJO-AS - Board of trusty: Kinjo-Gakuen, JP
+24261, 66304, 0, mie-u - Mie University, JP
+24262, 2048, 4294967296, HIcom - HAMANASU INFORMATION Co., Ltd., JP
+24263, 1024, 0, HONDA-NET - HONDA MOTOR Co., Ltd., JP
+24264, 4096, 0, KANAZAWA-IT - Kanazawa Institute of Technology, JP
+24268, 65536, 0, SAINS - National University Corporation Shizuoka University, JP
+24270, 5120, 4294967296, CRC-KCC - CRC Solutions Corp., JP
+24271, 16384, 4294967296, iCTV - Iruma CATV co., JP
+24275, 65536, 0, TOTO - TOTO LTD., JP
+24276, 20480, 0, ICNET - JCOM Co., Ltd., JP
+24277, 18432, 4294967296, NIRAI - Okinawa Cable Network Inc., JP
+24278, 20480, 4294967296, USEN-NET - USEN CORPORATION, JP
+24279, 11264, 4294967296, CAT-V - SENDAI CATV CO.,LTD., JP
+24280, 1536, 0, HIS-TKIDC - Hitachi Systems, Ltd., JP
+24282, 89088, 4294967296, KIR - KAGOYA JAPAN Inc., JP
+24283, 768, 0, MIEDEN-NET - Mieden Co.,Ltd., JP
+24284, 6912, 196608, CYBERAGENT - CyberAgent, Inc., JP
+24286, 2048, 0, WNI-AS - Weathernews,Inc., JP
+24287, 256, 65536, TEIN2-JP - National Institute of Informatics, JP
+24288, 2048, 0, ACCUTECHS - Accutechs Co., Ltd., JP
+24289, 10240, 65536, KBN - Kagawa T.V Broadcast Network Co,.Ltd, JP
+24290, 6144, 0, HEARTNET - Heart Network Co.,LTD, JP
+24291, 768, 0, MITSUI-NW - MITSUI & CO., LTD., JP
+24295, 40960, 4294967296, AS-PNAPOSK - Unitas Global Co., Ltd., JP
+24296, 26624, 0, YAHOO-2 - Yahoo Japan Corporation, JP
+24336, 8192, 0, DIGITALBANK-JP - Digitalbank Corporation, JP
+24477, 4096, 4294967296, NETAPPAS - NetApp, Inc., JP
+24512, 2048, 0, HAL-Internet - Will Ltd., JP
+24567, 4352, 65536, QTINC-AS-AP - QT Inc., JP
+24572, 118784, 4294967296, YAHOO-JP-AS-AP - Yahoo Japan, JP
+37888, 768, 0, HORIBA-NET - HORIBA, Ltd., JP
+37889, 1792, 0, JPARC-NET - J-PARC Center, JP
+37891, 2560, 0, JTIS - JR TOKAI Information Systems Company, JP
+37892, 52224, 4294967296, WAI-NET - Cable Media WAIWAI Co.,Ltd., JP
+37893, 1024, 0, TRADEWEB-TKO - Tradeweb Japan, JP
+37897, 4608, 4294967296, ANW-NET-AS - AXEL NETWORKS, INC., JP
+37898, 4096, 0, BARTOK-NET - digitiminimi, inc., JP
+37900, 1536, 327680, MATSURI - NTT Communications Corporation, JP
+37904, 512, 65536, BBIX-NETWORK - BBIX, Inc., JP
+37905, 256, 0, BRASTEL-NET - Brastel Co.,Ltd, JP
+37906, 256, 4294967296, NETIRD-2 - NetIRD Inc., JP
+37907, 5120, 0, DIGIROCK - DigiRock, Inc., JP
+37908, 8704, 4294967296, KBC - KIBI Cable Television Co.,Ltd., JP
+37910, 65536, 0, CUNET - Chubu University, JP
+37912, 2048, 4294967296, IPRIO-JP - IPRIO Corporation., JP
+37914, 4352, 0, Univnet - Advanced Software Technology and Management Research Institute of KYOTO, JP
+37915, 2560, 0, Ke-net - Wakayama Prefectural Government, JP
+37916, 5120, 0, atworks - A.T.WORKS, Inc., JP
+37917, 132096, 0, UTINS - University of Tsukuba, JP
+37918, 69376, 65536, ECL-INET - Nippon Telegraph and Telephone Corporation, JP
+37919, 65536, 0, SEGASAMMY - SEGA SAMMY HOLDINGS INC., JP
+37922, 9216, 4294967296, CATVY - Diversitymedia Co.,Ltd., JP
+37981, 0, 4294967296, TYIS-AS-AP - TOYO Internet Service Co., Ltd., JP
+38033, 768, 65536, YAHOO-JP2-AP - Yahoo Inc., JP
+38074, 768, 2147549184, SDCC-AS-AP - Ayao Takata, JP
+38215, 256, 65536, SYUHEIUDA-AS-AP - Syuhei Uda, JP
+38462, 35328, 4294967296, OCE-AS-AP - Osaki Computer Engineering Co.Ltd, JP
+38627, 2560, 0, BAIDUJP - Baidu, Inc., JP
+38628, 64512, 4294967296, WINK-NET - HIMEJI CABLE TELEVISION CORPORATION, JP
+38629, 256, 65536, OKN - NTT Communications Corporation, JP
+38631, 108288, 4294967296, LINE - LINE Corporation, JP
+38633, 4096, 0, VCIU-NET-AS - Value Core Inc., JP
+38634, 35840, 2147483648, DWANGO - DWANGO Co.,Ltd., JP
+38635, 131072, 131072, KEIO-NET - Keio University, JP
+38636, 512, 196608, DENA-NET - DeNA, Co. Ltd., JP
+38638, 6912, 0, IP-CORE - Ip Core Corporation, JP
+38639, 12544, 4294967296, HANABI - NTT Communications Corporation, JP
+38641, 65536, 0, LEONET-AS - Osaka Sangyo University, JP
+38642, 2048, 0, YOSHIZOU - Yoshizou XYZ Solutions, JP
+38643, 1792, 0, U-Cloud - UNIADEX, LTD., JP
+38644, 256, 65536, KANDANET - INTERNET MULTIFEED CO., JP
+38648, 1024, 4294967296, F-REGI - F-REGI Co.,Ltd., JP
+38651, 5120, 4294967296, Mixi - Mixi,Inc., JP
+38652, 4096, 4294967296, GINZADO-NET - Ginzado Co.,Ltd., JP
+38654, 65536, 0, INES-NETWORK - INES Corporation., JP
+38715, 2304, 0, Tottori-Regional-IX-AS - Foresightwave INC., JP
+45217, 256, 0, TORA-TRADING-SERVICES - Tora Trading Services Ltd, JP
+45672, 4096, 0, KGC-NET - Koga Cable TV Co., Ltd., JP
+45675, 4096, 0, KMN-TOKYO - JCOM Co., Ltd., JP
+45677, 9216, 4294967296, ICV - Isahaya Cable Media Co.,Ltd, JP
+45678, 256, 0, AAC-JP-AS - ABN AMRO Clearing Tokyo Co., Ltd., JP
+45679, 256, 131072, TOMOCHA-NET - Tatsumi, Tomo, JP
+45680, 2560, 4294967296, DOVA-NET - DOVA Corporation, JP
+45685, 65536, 0, RIKKYO-U - Rikkyo Gakuin Rikkyo University, JP
+45687, 8704, 4294967296, MCT-Internet - Minamikyusyu CableTV Net Inc., JP
+45688, 3592, 0, UT-NSRG - The University of Tokyo Interfaculty Initiative in Information Studies, JP
+45689, 0, 65536, CONVIVIALNET - Convivial Net, JP
+45690, 4096, 0, JCTV-NET - Tokushima Central TV Co.,Inc., JP
+51044, 1024, 8607563776, RHE - Kazuki Yamaguchi, JP
+54415, 1024, 262144, WIZ-JP-AS-AP - WIZ K.K., JP
+55373, 256, 0, TRI-KOBE-NET - Foundation for Biomedical Research and Innovation, JP
+55376, 6656, 0, KCV-HitaNet - KCV communications CO.,LTD., JP
+55377, 256, 0, Sadaitec - Sadiatec Co., Ltd, JP
+55378, 1024, 0, QUICK-YCCNET - QUICK Corp., JP
+55379, 65536, 65536, hosei-net - Hosei University, JP
+55380, 65536, 65536, KAINS - Kanazawa University, JP
+55381, 12800, 0, CCSNET - CITY-CABLE SHUNAN Corporation, JP
+55382, 1024, 0, HOT-CHA - Nagato city office, JP
+55383, 2048, 0, IDC-JP - YYY Group, Inc., JP
+55384, 16384, 65536, JAIST-EXP - Japan Advanced Institute of Science and Technology, JP
+55385, 12288, 4294967296, DA - Digital Alliance Co.,Ltd., JP
+55387, 49152, 0, RMGR-MIX - Japan Communication Inc., JP
+55388, 12288, 4294967296, ASJ - ASJ INC., JP
+55390, 65536, 65536, TUSNET - Tokyo University of Science, JP
+55391, 67584, 73014444032, MF-NATIVE6-E - INTERNET MULTIFEED CO., JP
+55392, 67584, 73014444032, MF-NATIVE6-W - INTERNET MULTIFEED CO., JP
+55393, 768, 0, MIDOKURA - Midokura Japan K.K., JP
+55394, 26624, 4294967296, GREE-NET - GREE, Inc., JP
+55396, 512, 65536, FNCLAB - NRI SecureTechnologies, Ltd, JP
+55569, 1536, 524288, CRITEO-AS-AP - Criteo Technology, JP
+55873, 1024, 0, SJMAPNIC-JP - St. Jude Medical, JP
+55890, 512, 0, SUNTORY - Suntory Business Systems Ltd., JP
+55891, 1024, 8774483968, WBTSJP-AS - WATCH TOWER BIBLE AND TRACT SOCIETY, JP
+55894, 1024, 0, WHOSNEXT - Who's Next, JP
+55895, 256, 65536, echigo-IX - N.S.Computer Service Co.,Ltd., JP
+55897, 4096, 0, SAKURA-F - SAKURA Internet Inc., JP
+55898, 2560, 4294967296, YAHOO-CORP - Yahoo Japan Corporation, JP
+55899, 8704, 8589934592, SIG - LEON TECHNOLOGY, Inc., JP
+55900, 36608, 4294967296, GLBB-JP - GLBB Japan KK, JP
+55901, 1024, 65536, SCEI-NET - Sony Computer Entertainment Inc, JP
+55902, 2048, 0, TS-NET - TS-NET of TOSET, Inc. in Japan, JP
+55904, 65536, 65536, KOGAKUIN-AS - KOGAKUIN University, JP
+55905, 768, 0, COMZNET2 - TOP CLOUD Inc., JP
+55907, 1024, 196608, GMO-DNS - GMO Internet,Inc, JP
+55909, 256, 65536, kochi-ct - National Institute of Technology, Kochi College, JP
+55910, 16384, 0, SITNET-AS - Shibaura Institute of Technology, JP
+55912, 4352, 4295032832, u-kochi - University of Kochi, JP
+55949, 256, 0, TECHNOPROHOLDINGS-JP - Technopro Holdings, JP
+56291, 24576, 0, ACE-AS-AP - Ace, Inc., JP
+58645, 1024, 0, marinet - Miyagi Cable TV Co.,Ltd, JP
+58647, 73728, 0, KAGAWAU-AS - Kagawa University, JP
+58648, 1280, 0, AT-I-NET - AT-I, Inc., JP
+58649, 256, 65536, GMO-REG-NET - GMO Internet,Inc, JP
+58650, 12800, 0, CATVWINK - Warabi Cable Vision Co., Ltd., JP
+58651, 256, 65536, GMO-REGSEC - GMO Internet,Inc, JP
+58652, 65536, 0, Kochi-U-NET - Kochi University, JP
+58653, 3328, 0, VolvoITJapan - UD Trucks Corporation, Volvo Information Technology Japan, JP
+58654, 1024, 0, bless - BLESS Co.,Ltd., JP
+58784, 2048, 0, RIS - Rissho University, JP
+58785, 65536, 65536, TGU-NET - Tohoku Gakuin University, JP
+58786, 256, 65536, GMOKOR-NET - GMO Internet,Inc, JP
+58788, 6144, 0, CHIRORO - Chiroro-Net Co.,Ltd., JP
+58789, 1024, 0, DUNAMIS - DUNAMIS Co.,Ltd, JP
+58791, 45568, 536870912, GMOOSK-NET - GMO Internet,Inc, JP
+58793, 33024, 4294967296, NIFCLOUD-NET - FUJITSU CLOUD TECHNOLOGIES LIMITED, JP
+59091, 8192, 0, KAIT-NWLAB - Kanagawa Institute of Technology, JP
+59092, 27648, 0, KRONOS - kronos.Co.,Ltd., JP
+59093, 3072, 65536, ICKNET - IMABARI CATV CORPORATION, JP
+59094, 6144, 0, S2-NET - esu2 Corporation, JP
+59095, 2048, 0, ACCELIA-W - ACCELIA, JP
+59096, 8192, 0, MAIN - Meiji Gakuin University, JP
+59097, 1024, 0, OCH-NET - Okinawa Cross Head Co., Ltd., JP
+59099, 1024, 65536, CLOUD-SDN-AS - BroadBand Tower, Inc., JP
+59102, 8192, 0, GENES - GENES Co., Ltd., JP
+59103, 3072, 2147483648, SOFTETHER - SoftEther Corporation, JP
+59104, 65536, 0, SOKAU-AS - Soka University, JP
+59105, 2048, 4294967296, HOMENOC - Home NOC Operators Group, JP
+59107, 15360, 0, HTV-NET - Hachinohe Cable Television Co., JP
+59108, 96256, 16777216, KATCH-NET - KATCH NETWORK INC., JP
+59109, 19456, 0, HITCLOUD - Hitachi,Ltd., Managed Services Business Division, JP
+59110, 1024, 4294967296, BPS - BPS Inc., JP
+59111, 256, 65536, AIU-NET - Akita International University, JP
+59113, 256, 65536, RJV6-NET - RICOH JAPAN Corporation, JP
+59115, 256, 65536, CYBERDYNE - CYBERDYNE Inc., JP
+59116, 4096, 393216, AIGTKK - AIG Technologies KK, JP
+59118, 4608, 0, FNC-O2 - NRI SecureTechnologies, Ltd., JP
+59120, 512, 0, TINS-NET - Tsukuba Internet Service Corporation, JP
+59121, 33024, 0, AKNWS-NET - Asahi Kasei Networks Corporation, JP
+59123, 3072, 4294967296, KAKAKUCOM - Kakaku.com, Inc., JP
+59124, 256, 0, KYOTO-PREF - KYOTO Prefectural Government, JP
+59125, 35840, 21474836480, CYBERHOME - FAMILY NET JAPAN INCORPORATED, JP
+59126, 10240, 4294967296, NCT - NCT CO.,LTD., JP
+59127, 63488, 4294967296, NCV - Newmedia Corporation, JP
+59128, 256, 65536, KMC - Kyoto University Microcomputer Club, JP
+59129, 2048, 0, LOGICLINKS - LogicLinks, Inc., JP
+59349, 17408, 65536, GMO-Z-COM - GMO-Z.COM PTE. LTD., JP
+62184, 256, 65536, MNO-AS - Michal Nowak, JP
+63770, 17408, 4294967296, ICSCOE-AS - Industrial Cyber Security Center of Excellence, JP
+63771, 2048, 8589934592, BGPNAP - Border Gateway Protocol Network Analysis Project, JP
+63772, 6400, 0, EXTRIDE-NET - extride inc., JP
+63773, 1280, 4295032832, DUAL-NET - dual&Co. Inc., JP
+63774, 2048, 4294967296, KAMOIKE-NET - Kamoike.net LLP, JP
+63775, 2048, 0, YCTNET - YAKAGE CABLE TELEVISION, JP
+63776, 768, 33554432, MERCARI-JP - Mercari, Inc., JP
+63777, 65536, 0, STARCLUSTER - National Institutes of Natural Sciences National Astronomical Observatory of JAPAN, JP
+63778, 0, 4294967296, BGPNAP2 - Border Gateway Protocol Network Analysis Project, JP
+63779, 512, 0, JUSTPLAYER - InfiniCloud Co. Ltd., JP
+63780, 256, 1073741824, BIRDIE-NET - dual&Co. Inc., JP
+63781, 512, 4294967296, KFNET-AS - Kobayashi Family Net LLP, JP
+63782, 4096, 0, maotv - Omaezaki Cable Television Co.Ltd, JP
+63783, 2048, 0, CUC - Chiba University of Commerce, JP
+63784, 512, 68719476736, GSS-NET - Digital Agency, JP
+63785, 512, 0, FU-NTP - Fukuoka University, JP
+63786, 256, 33554432, MARCHE - Mercari, Inc., JP
+63787, 256, 0, TSURUHANE - TSURUHANE JAPAN LTD., JP
+63789, 1024, 0, NEXT-WEB - NeXtWEB Corporation, JP
+63790, 512, 4294967296, CA-LAB - CyberAgent, Inc., JP
+63791, 512, 4294967296, DOORNOC-NET - doornoc, JP
+63793, 512, 4294967296, OPSBETTER - Japan OPS Better Co., Ltd., JP
+63794, 512, 4294967296, ILKS-NET - ILKS Inc., JP
+63795, 256, 268435456, ROUTEL - RoutelNet, JP
+63796, 768, 196608, NEXTNET-LAB - Next Network Research Laboratory, Graduate School of Science and Engineering, Hosei University, JP
+63797, 256, 4294967296, CUTEIP - CuteIP, JP
+63798, 1024, 16777216, ENTERNET-AS - Industrial Cyber Security Center of Excellence, JP
+63799, 512, 4294967296, GHOST - Ghost Network, JP
+63800, 256, 86507520, SERVER-G - SERVER-G Group, JP
+63801, 768, 65536, DODO-NET - DODO K.K., JP
+63802, 131072, 0, MIKAKA-EAST - Nippon Telegraph and Telephone East Corporation, JP
+63803, 0, 134217728, CIRCLE - SERVER-G Group, JP
+63805, 512, 196608, RIDC-NET - Ryobi Systems Co., Ltd., JP
+63806, 256, 65536, MENHERA - Human-life Information Platforms Institute, JP
+63917, 512, 0, AMWAYJAPANGK-JP - Amway Japan G.K, JP
+63997, 13824, 65536, TSUKAERUNET - JMF Investment & Technology PTY LTD, JP
+131077, 768, 0, TOHMATSU-NET - Deloitte Tohmatsu Corporate Solutions LLC, JP
+131078, 256, 0, KDDLAB-4OCT - KDDI R&D Laboratories, INC., JP
+131079, 256, 65536, KANDANET4 - INTERNET MULTIFEED CO., JP
+131156, 256, 65536, LAC-AS - LAC Co., Ltd., JP
+131157, 0, 4294967296, MAGMA-IPV6 - IMS Corporation, JP
+131158, 512, 65536, NAIST-AS - Nara Institute of Science and Technology, National University Corporation, JP
+131159, 65536, 65536, AS-YAMAGATAU - Yamagata University, JP
+131160, 1024, 4294967296, WI2 - Wire and Wireless Co.,Ltd., JP
+131161, 65536, 4294967296, NECCN - NEC Corporation, JP
+131893, 5632, 262144, RICOH-NET - RICOH Company, Ltd., JP
+131894, 256, 0, U-Cloud-2 - UNIADEX, LTD., JP
+131895, 256, 65536, OIST-NET - Okinawa Institute of science and technology, JP
+131896, 2048, 0, SSI-Lab - SSI Lab Inc., JP
+131897, 65536, 0, EHIME-U - National University Corporation ,Ehime University, JP
+131898, 256, 0, YAHOO-3 - Yahoo Japan Corporation, JP
+131899, 8704, 0, DIG-NET - DIG Inc., JP
+131901, 1024, 0, fidessa-kk - FIDESSA KK, JP
+131902, 512, 0, LOGICLINKS2 - LogicLinks, Inc., JP
+131903, 256, 0, NRI-IVPN - Nomura Research Institute,Ltd., JP
+131904, 1280, 0, CYBERFEELINC-JP - Cyber Feel Inc, JP
+131905, 1024, 4294967296, JPRS-GTLD - Japan Registry Services Co., Ltd., JP
+131907, 2048, 0, IWAMI-NET - Iwami Cablevision Co.,Ltd., JP
+131909, 2048, 0, Okinawa-DC - OCC Co., Ltd., JP
+131910, 1536, 4294967296, SORACOM - SORACOM. INC., JP
+131911, 9216, 4294967296, HCTV-NET - HONJYO CABLE VISION CO., LTD., JP
+131912, 1280, 4294967296, CYBOZU - Cybozu,Inc., JP
+131914, 2048, 0, DD-NET - Rakuten Group, Inc., JP
+131915, 22528, 0, WINDE - Hamamatsu Cable Television .Inc, JP
+131916, 28672, 4294967296, BAYNET - Tokyo Bay Network Co.,Ltd., JP
+131917, 1280, 0, TOSHIBA-IS - Toshiba I.S. corp, JP
+131918, 61440, 4294967296, SCN-NET - SHONAN CABLE NETWORK, JP
+131919, 65536, 0, MEIJI-NET - Meiji University, JP
+131921, 84736, 67174400, GMOCL - GMO GlobalSign Holdings K.K., JP
+131923, 22528, 4294967296, MCAT - MCAT Ltd., JP
+131924, 256, 65536, KAP-NET - Kansai Airports, JP
+131925, 23296, 21474836480, CYBERHOME-2 - FAMILY NET JAPAN INCORPORATED, JP
+131926, 10240, 0, CTS-NET - Cable Television Saiki Co. , Ltd., JP
+131927, 26624, 0, TVM - TV Matsumoto Cablevision, JP
+131928, 3072, 0, IPP-NET - Tottori Teletopia Co., Ltd., JP
+131929, 4096, 4294967296, FRUITSNET - Yamanashi CATV Co,. ltd, JP
+131930, 65536, 0, TBS-NET - Tokyo Broadcasting System Television, Inc., JP
+131931, 12800, 0, ACTV-NET - Aomori Cable TV Co., Ltd., JP
+131932, 327680, 0, JEIS-NET - JR East Information Systems Company, JP
+131933, 10240, 4294967296, TTV-NET - TAMA Television Co., Ltd, JP
+131934, 32768, 4294967296, ICC-NET - ICC Corporation, JP
+131936, 2304, 0, UMGJP-NET - UNIVERSAL MUSIC LLC, JP
+131937, 23040, 8589934592, JCV - Joetsu Cable Vision, JP
+131938, 65536, 0, NISSAN-NET - NISSAN MOTOR CO.,LTD., JP
+131939, 1024, 0, IPSISM-NET - IPS INC, JP
+131940, 512, 0, BETANET - Nissho Electronics Corp., JP
+131941, 2048, 0, ENTSU-NET - Entsu Co.,Ltd., JP
+131942, 1024, 0, GURUNAVI-NET - Gurunavi, Inc., JP
+131943, 3072, 0, goto-tv - Goto tv, JP
+131944, 768, 0, KADOKAWA-NET - KADOKAWA DWANGO CORPORATION, JP
+131945, 1024, 0, SNTU-NET - Sanntuu Corporation, JP
+131946, 512, 0, MU-NET - MUSASHINO UNIVERSITY E.F., JP
+131948, 256, 65536, FORNEXT - FORNEXT Inc., JP
+131949, 6144, 4294967296, ASO-NET - General Incorporated Foundation Aso Telework Center, JP
+131950, 4608, 0, ENJOYVC - EnjoyVC Japan Corporation, JP
+131951, 256, 16777216, SSC - Suzuyo Shinwart Corporation, JP
+131952, 17920, 0, POTATO-NET - Asahikawa Cable Television Co., Ltd., JP
+131953, 512, 0, YUTOPIA-NET - NPO Yutopianet, JP
+131954, 6144, 4294967296, LCNet - Kawaguchiko cable television Inc, JP
+131955, 2560, 0, KCNET - Kyoutou Cable Net Co Ltd, JP
+131957, 1536, 4294967296, MicroAd - MicroAd, Inc., JP
+131958, 26112, 4294967296, t-net - Tama Cable Network Co.,Ltd., JP
+131959, 53760, 4294967296, YOUTV - YOU Communications Corporation, JP
+131960, 7680, 0, MBO-NET - MBO holdings Inc., JP
+131961, 1024, 0, DOKKYO-AS - Dokkyo University, JP
+131963, 1024, 4294967296, MCDR-KIX - MC Digital Realty, Inc., JP
+131964, 256, 65536, CYBERHOME-3 - FAMILYNET JAPAN CORPORATION, JP
+131965, 83200, 0, XSERVER - Xserver Inc., JP
+131966, 1536, 0, INET-NET - I-NET CORP., JP
+131969, 1024, 16777216, SSC-2 - Suzuyo Shinwart Corporation, JP
+131970, 6656, 4294967296, Hikarinet - Hikarinet Inc., JP
+131971, 2048, 0, NW-SEC-EXP - Japan Network Information Center, JP
+131972, 256, 0, JST-Sendai - J-Stream Inc., JP
+131973, 256, 0, JST-Fukuoka - J-Stream Inc., JP
+131976, 256, 4294967296, JPNAP-WEST - INTERNET MULTIFEED CO., JP
+131977, 512, 0, JPF-WEB - Japan Photo Finish Corporation, JP
+131980, 512, 16777216, KINIKUNET - KADOKAWA CORPORATION, JP
+131981, 65536, 0, TAKUSHOKUNET - Takushoku University, JP
+131982, 1536, 4294967296, UBC - Uenohara Broadband Communications Inc., JP
+131983, 512, 0, SCNTV-NET - suo cablenet corporation, JP
+131984, 256, 65536, JOCDN - JOCDN Inc., JP
+131986, 2048, 4294967296, BB4U-NET - ITOCHU Cable Systems Corp., JP
+131987, 2048, 4294967296, MCDR-NRT - MC Digital Realty, Inc., JP
+131988, 512, 4294967296, TANET - Takehara Cable Network Co,Ltd, JP
+131989, 256, 0, PFU-UMC-MS01 - PFU LIMITED, JP
+131990, 256, 65536, HAWKS-GAMING - Fukuoka SoftBank Hawks, JP
+132504, 512, 0, QUALITIA-AS-AP - QUALITIA Co.,LTD, JP
+132726, 7680, 0, SANYUNETCORP-JP - SanyuNet corp., JP
+132827, 25088, 0, GATEWAY-AS-AP - GATEWAY INC, JP
+133180, 114688, 0, STARBOWLTD-AS-AP - Starbow Ltd., JP
+133203, 1280, 0, SBIBITS-JP - SBI BITS Co., Ltd., JP
+133782, 512, 0, ELSEVIER-ASIAPACIFIC-AS-AP - Elsevier Ltd, JP
+133900, 896, 0, GSI-AP - Gilead Sciences, Inc., JP
+134351, 7936, 196608, LEASEWEB-AS-AP - Leaseweb Japan K.K., JP
+134827, 256, 0, EYJAPAN-AS-AP - EY Japan Co., Ltd., JP
+135161, 23040, 268435456, GMO-Z-COM-TH - GMO-Z.COM PTE. LTD., JP
+135304, 256, 65536, VMWARE-AS-AP - VMWare Incorporation, JP
+135372, 256, 0, CSJI-AS-AP - Columbia Sportswear Japan Inc, JP
+136506, 1536, 0, LEONCOLTD-AS-AP - LEON CO.LTD, JP
+136586, 512, 0, INCOMMJAPANKK-AS-AP - InComm Japan K.K., JP
+136779, 512, 0, SCHNEIDER-AS-JP - Schneider Electric (AUSTRALIA) Pty Ltd, JP
+136796, 4096, 1114112, CL-JP-AS - CORELINK JAPAN, JP
+137008, 256, 0, OPENTEXT-AS-AP-JP-TOK - GXS International, Inc, JP
+137445, 6912, 0, AS-PFLINK-JP - PF LINK SYSTEMS, JP
+137462, 512, 0, RMNI-AS-AP - Rakuten Mobile, Inc., JP
+137819, 512, 0, BEEKS-AS-AP - Beeks Financial Cloud (Japan), JP
+137912, 1024, 0, GBK-AS-AP - Global Broadband K.K, JP
+138033, 1024, 4294967296, BBIX-AS-AP - BBIX, Inc, JP
+138038, 0, 65536, WOLFLAB-AS-AP - Wolf Network Lab, JP
+138181, 0, 18022400, HEXHU - Cat Networks K.K., JP
+138384, 420864, 1099511627776, RMNI-AS-AP - Rakuten Mobile, Inc., JP
+138632, 0, 65536, ENMOE-AS-AP - Enmoe Network, JP
+138652, 256, 4294967296, SGCOM-AS-AP - Super Godzilla Communications GK, JP
+138968, 47872, 38654705664, RAINBOWIDC-AS-AP - rainbow network limited, JP
+138986, 0, 1048576, WINDCLOUDNETWORK-MO - Wind Cloud Network Technology Co Ltd, JP
+139076, 11520, 65536, ENJOYVC-AS-AP - EnjoyVC Japan Corporation, JP
+139255, 512, 0, U-NEXT-AS-AP - U-NEXT Co.,Ltd., JP
+139345, 768, 196608, HYVEMANAGEDHOSTINGCORPINC-AS-AP - Hyve Managed Hosting Corp Inc, JP
+139468, 3584, 4294967296, DCI-AS-AP - DC Communications Inc., JP
+139472, 256, 0, CMJK-AS-AP - Catalina Marketing Japan K.K., JP
+140501, 256, 0, ITIVITI-AS-AP - Itiviti Japan K.K., JP
+140683, 1280, 0, STARBOWLTD-AS-AP - Starbow Ltd., JP
+140868, 0, 65536, TAKATASDCC-AS-AP - Ayao Takata, JP
+141757, 1536, 0, ZJC-AS-AP - Zoho Japan Corporation, JP
+142025, 0, 65536, GAMEPLUS-AS-JP - Game Plus Studio, JP
+142052, 512, 131072, MEMPOOLSPACEKK-AS-AP - Mempool Space K.K., JP
+146969, 6400, 4294967296, SBT-SC - SB Technology Corp., JP
+146972, 256, 65536, TEC-JP-NET - TOYO Engineering Corporation, JP
+146974, 512, 4294967296, WP-NET - Woven by Toyota, Inc., JP
+146976, 2048, 4294967296, KNET - Kvision Co.,Ltd., JP
+146977, 8192, 0, NI-PO-NET - Niikawa Portal Co.,LTD, JP
+146979, 2560, 65536, SUNDAICHI - University of Nagasaki, JP
+146980, 256, 65536, IOC - Tokyo Metropolitan College of Industrial Technology Infomation System Engineering Course, JP
+146981, 512, 4294967296, Nekojarashi - Nekojarashi Inc., JP
+146982, 256, 0, SHINNYO-LIVE - Shinnyo-en, JP
+146984, 512, 4294967296, JPNAP-EAST - INTERNET MULTIFEED CO., JP
+146985, 512, 0, KC-MSP-NET - KISSEI COMTEC Co.,Ltd, JP
+146986, 256, 16777216, SSC-3 - SUZUYO SHINWART CORPORATION, JP
+146987, 768, 0, GMOCL-NET - GMO GlobalSign Holdings K.K., JP
+148985, 256, 0, ANSYSJAPANKK-AS-AP - ANSYS Japan K.K., JP
+149428, 3584, 4294967296, CODE200-AS-AP - Code200, UAB, JP
+150296, 256, 303169536, ONENEXTNET-AS-AP - 1NextNet, JP
+150298, 0, 65536, MORE-WAIFU-BACKBONE - More Waifu Backbone, JP
+150314, 0, 65536, RIVULETNETWORKS-AS-AP - Rivulet Networks, JP
+150356, 512, 0, GMO-BRS - GMO BRAND SECURITY Inc., JP
+150357, 256, 65536, SUN-SECBASE - University of Nagasaki, JP
+150358, 2048, 0, TWCU-NET - Tokyo Woman's Christian University, JP
+150359, 66048, 4294967296, CTTNET - Cable Television TOYAMA Inc., JP
+150362, 512, 4294967296, Kuriyama-Net - Mamireimu Net Work's, JP
+150363, 65792, 0, THIN-NET - SoftEther Corporation, JP
+150366, 512, 0, Demae-can-NW - demae-can co. ltd, JP
+150367, 1536, 0, CLOUD-NET - Future Corp., JP
+150368, 0, 1114112, KLNetwork - SERVER-G Group, JP
+150369, 512, 4295032832, Infal - TelHi Corporation, JP
+150445, 1536, 4294967296, MBGETECHBROTHERS-AS-AP - Getechbrothers, JP
+150685, 256, 0, CHINGKUO-AS-AP - Ching Kuo, JP
+151065, 0, 65536, AS-VMW-BKK - VMWare Incorporation, JP
+151067, 0, 65536, AS-VMW-HKG - VMWare Incorporation, JP
+151350, 512, 4294967296, QESL-AS-AP - Q Enterprise Systems Ltd., JP
+151366, 0, 268435456, CIRCLE, JP
+151371, 512, 4294967296, PAINA - PAINA Information Development, JP
+151373, 512, 0, JP3DP-NET - JAPAN 3D PRINTER, JP
+151420, 512, 1114112, RAPIDFIREY-AS-AP - Rapid-Fire-y, JP
+198305, 0, 65536, LINGMOZHU-AS - Lingmo Zhu, JP
+198924, 0, 67239936, SERVER-G_Group - Miura Gaito, JP
+198969, 0, 2097152, QWTY - KANJU CHEN, JP
+199108, 0, 1114112, tamukai - Kaito Tamura, JP
+199266, 0, 3276800, container-dev - REI MIMURA, JP
+200226, 0, 1048576, REN-AS - Ren Yamamoto, JP
+201197, 0, 1048576, CeliaNetworks - Shingo HATTORI, JP
+203577, 0, 4259840, FILABS - Fumon Shimadate, JP
+208690, 0, 21037056, AS208690 - SAKANO YUTA, JP
+208755, 0, 65536, AMDEXA-AS - Melan Jayasinghage, JP
+210542, 12800, 5385486336, G-net - NPO G-net, JP
+211066, 0, 65536, SAKURA-AS - SAKURA ITO, JP
+212817, 256, 4294967296, RPDFIREY - Yasuaki Iida trading as 'Rapid-Fire-y', JP
+213164, 0, 65536, Watakushi - Yusuke Ichiki, JP
+215871, 0, 34359738368, XTOM-JP - xTom Japan Co., Ltd., JP
+215935, 0, 16777216, Ingnum-Networks - Kazuto Nishio, JP
+216006, 0, 16777216, flamingonetwork - Tomoki Kudo, JP
+216447, 0, 16777216, binary-0 - Azusa Takemae, JP

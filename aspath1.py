@@ -8,15 +8,24 @@ import matplotlib.pyplot as plt
 # Create an instance of a simple undirected graph
 #as_graph = nx.Graph()
 as_graph = nx.DiGraph()
-f = open("2014-08-01.txt","w")
+# f = open("2021-08-01-1.txt","w")
+# f = open("2019-06-25-1min.txt","w")
+# f = open("2018-04-25-1min.txt","w")
+f = open("2017-08-26-1min.txt","w")
 bgp_lens = defaultdict(lambda: defaultdict(lambda: None))
 
 stream = pybgpstream.BGPStream(
     # Consider this time interval:
     # Sat, 01 Aug 2015 7:50:00 GMT -  08:10:00 GMT
-    from_time="2014-08-01 07:59:00", until_time="2014-08-01 08:00:00",
-    collectors=["rrc00"],
+    # from_time="2021-08-01 07:59:00", until_time="2021-08-01 08:00:00",
+    # 2017-8-25 12:50
+    # from_time="2017-08-25 07:59:00", until_time="2017-08-25 08:00:00",
+    # from_time="2019-06-25 07:59:00", until_time="2019-06-25 08:00:00",
+    # from_time="2018-04-25 07:59:00", until_time="2018-04-25 08:00:00",
+    from_time="2017-08-26 08:00:00", until_time="2017-08-26 08:01:00",
+    collectors=["rrc00","rrc01"],
     record_type="ribs",
+    #record_type="updates",
 )
 stream.set_data_interface_option("broker", "cache-dir", "cache")
 
